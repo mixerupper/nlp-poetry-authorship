@@ -1,5 +1,5 @@
 def data_root(path):
-	return '../data/'+path
+	return '../../data/'+path
 
 def raw_root(path):
 	return data_root('raw/' + path)
