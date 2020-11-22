@@ -1,4 +1,4 @@
-Unnamed: 0,author,title,poetry_foundation_id,content,author_poem_count,author_poem_index,author_poem_pct
+Unnamed: 0,author,title,poetry_foundation_id,raw_content,clean_content,author_poem_count,author_poem_index,author_poem_pct
 2702,Emily Dickinson,The morns are meeker than they were - (32),56590,"The morns are meeker than they were -
 The nuts are getting brown -
 The berry’s cheek is plumper -
@@ -7,7 +7,10 @@ The rose is out of town.
 The maple wears a gayer scarf -
 The field a scarlet gown -
 Lest I sh'd be old-fashioned
-I’ll put a trinket on.",57,52,0.912280701754386
+I’ll put a trinket on.","morn meeker nut get brown berri cheek plumper rose town
+
+th mapl wear gayer scarf field scarlet gown lest shd oldfashioned
+i'l put trinket",57,52,0.912280701754386
 2729,William Shakespeare,Sonnet 130: My mistress' eyes are nothing like the sun,45108,"My mistress' eyes are nothing like the sun;
 Coral is far more red than her lips' red;
 If snow be white, why then her breasts are dun;
@@ -21,7 +24,20 @@ That music hath a far more pleasing sound;
 I grant I never saw a goddess go;
 My mistress, when she walks, treads on the ground.
 And yet, by heaven, I think my love as rare
-As any she belied with false compare.",85,77,0.9058823529411764
+As any she belied with false compare.","mistress eye noth like sun
+cor far red lip red
+if snow white breast dun
+if hair wire black wire grow head
+i seen rose damask red white
+but rose see cheeks
+and perfum delight
+than breath mistress reeks
+i love hear speak yet well know
+that music hath far pleas sound
+i grant never saw goddess go
+mi mistress walk tread ground
+and yet heaven think love rare
+a beli fals compar",85,77,0.9058823529411764
 2737,Emily Dickinson,The Moon is distant from the Sea – (387),52198,"The Moon is distant from the Sea –
 And yet, with Amber Hands –
 She leads Him – docile as a Boy –
@@ -35,11 +51,27 @@ Just so far – goes away –
 Oh, Signor, Thine, the Amber Hand –
 And mine – the distant Sea –
 Obedient to the least command
-Thine eye impose on me –",57,53,0.9298245614035088
+Thine eye impose on me –","moon distant sea –
+and yet amber hand –
+she lead – docil boy –
+along appoint sand –
+
+he never miss degre –
+obedi eye –
+he come far – toward town –
+just far – go away –
+
+oh signor thine amber hand –
+and mine – distant sea –
+obedi least command
+thin eye impos –",57,53,0.9298245614035088
 2779,Emily Dickinson,“Faith” is fine invention (202),48184,"“Faith” is a fine invention
 For Gentlemen who see!
 But Microscopes are prudent
-In an Emergency!",57,54,0.9473684210526316
+In an Emergency!","“faith” fine invention
+for gentleman see
+but microscop prudent
+in emerg",57,54,0.9473684210526316
 2791,William Shakespeare,"Song of the Witches: “Double, double toil and trouble”",43189,"(from
 Macbeth
 )
@@ -57,14 +89,37 @@ Like a hell-broth boil and bubble.
 Double, double toil and trouble;
 Fire burn and caldron bubble.
 Cool it with a baboon's blood,
-Then the charm is firm and good.",85,78,0.9176470588235294
+Then the charm is firm and good.","from
+macbeth
+
+doubl doubl toil trouble
+fir burn caldron bubble
+fillet fenni snake
+in caldron boil bake
+ey newt toe frog
+wool bat tongu dog
+add fork blindworm sting
+lizard leg howlet wing
+for charm power trouble
+lik hellbroth boil bubble
+
+doubl doubl toil trouble
+fir burn caldron bubble
+cool baboon blood
+then charm firm good",85,78,0.9176470588235294
 2811,Rae Armantrout,Procedures,52591,"The palm tree exposes
 a large number
 of loose, carved spines
 
 out of pleasure?
 
-Boredom?",62,56,0.9032258064516128
+Boredom?","palm tree exposes
+a larg number
+of loos carv spines
+
+out pleasure
+
+boredom",62,56,0.9032258064516128
 2815,William Shakespeare,"Sonnet 139: O, call not me to justify the wrong",56225,"O, call not me to justify the wrong
 That thy unkindness lays upon my heart;
 Wound me not with thine eye but with thy tongue;
@@ -78,7 +133,20 @@ Her pretty looks have been mine enemies;
 And therefore from my face she turns my foes,
 That they elsewhere might dart their injuries—
 Yet do not so; but since I am near slain,
-Kill me outright with looks and rid my pain.",85,79,0.9294117647058824
+Kill me outright with looks and rid my pain.","call justifi wrong
+that thi unkind lay upon heart
+wound thine eye thi tongue
+us power power slay art
+tel thou lov'st elsewher sight
+dear heart forbear glanc thine eye aside
+what need'st thou wound cun thi might
+i o'erpress defens bide
+let excus thee ah love well knows
+her pretti look mine enemies
+and therefor face turn foes
+that elsewher might dart injuries—
+yet sinc near slain
+kil outright look rid pain",85,79,0.9294117647058824
 2837,William Shakespeare,Sonnet 1: From fairest creatures we desire increase,50643,"From fairest creatures we desire increase,
 That thereby beauty’s rose might never die,
 But as the riper should by time decease,
@@ -92,7 +160,20 @@ And only herald to the gaudy spring,
 Within thine own bud buriest thy content,
 And, tender churl, mak’st waste in niggarding.
 Pity the world, or else this glutton be,
-To eat the world’s due, by the grave and thee.",85,80,0.9411764705882352
+To eat the world’s due, by the grave and thee.","fairest creatur desir increase
+that therebi beauti rose might never die
+but riper time decease
+hi tender heir might bear memory
+but thou contract thine bright eyes
+feed'st thi light flame selfsubstanti fuel
+mak famin abund lies
+thyself thi foe thi sweet self cruel
+though art world fresh ornament
+and herald gaudi spring
+within thine bud buriest thi content
+and tender churl mak'st wast niggarding
+p world els glutton be
+to eat world due grave thee",85,80,0.9411764705882352
 2842,William Shakespeare,"Sonnet 19: Devouring Time, blunt thou the lion's paws",45088,"Devouring Time, blunt thou the lion's paws,
 And make the earth devour her own sweet brood;
 Pluck the keen teeth from the fierce tiger's jaws,
@@ -106,7 +187,20 @@ Nor draw no lines there with thine antique pen!
 Him in thy course untainted do allow
 For beauty's pattern to succeeding men.
 Yet do thy worst, old Time! Despite thy wrong
-My love shall in my verse ever live young.",85,81,0.9529411764705882
+My love shall in my verse ever live young.","devour time blunt thou lion paws
+and make earth devour sweet brood
+pluck keen teeth fierc tiger jaws
+and burn longlivd phoenix blood
+mak glad sorri season thou fleets
+and whateer thou wilt swiftfoot time
+to wide world fade sweets
+but forbid thee one heinous crime
+o carv hour love fair brow
+nor draw line thine antiqu pen
+him thi cours untaint allow
+for beauti pattern succeed men
+yet thi worst old time despit thi wrong
+mi love shall vers ever live young",85,81,0.9529411764705882
 2846,Emily Dickinson,To fight aloud is very brave - (138),55871,"To fight aloud, is very brave -
 But gallanter, I know
 Who charge within the bosom
@@ -120,7 +214,11 @@ Regards with patriot love -
 We trust, in plumed procession
 For such, the Angels go -
 Rank after Rank, with even feet -
-And Uniforms of snow.",57,55,0.9649122807017544
+And Uniforms of snow.","fight aloud brave gallant know
+who charg within bosom
+th calvalri wo win nation see fall none observ whose die eye country
+regard patriot love trust plume procession
+for angel go rank rank even foot uniform snow",57,55,0.9649122807017544
 2863,Rae Armantrout,The Thinning,55539,"1
 
 These guys try to make us
@@ -158,7 +256,42 @@ what she looks like
 naked.
 
 On a cold night,
-we can see forever.",62,57,0.9193548387096774
+we can see forever.","guy tri make us
+match mood products
+
+th way once
+und love spell
+
+w attach meaning
+to sound
+
+attach sound objects
+
+th old magic won't work now
+
+but it nice
+to remind it
+
+
+
+sh tease
+tear skirt off
+
+on one
+really
+
+drop petals
+a could always
+mak more
+
+it tiresome
+
+w know
+what look like
+naked
+
+on cold night
+w see forev",62,57,0.9193548387096774
 2864,William Shakespeare,"Sonnet 116: Let me not to the marriage of true minds
  
  
@@ -176,7 +309,20 @@ Within his bending sickle's compass come;
 Love alters not with his brief hours and weeks,
 But bears it out even to the edge of doom.
 If this be error and upon me prov'd,
-I never writ, nor no man ever lov'd.",85,82,0.9647058823529412
+I never writ, nor no man ever lov'd.","let marriag true minds
+admit impedi love love
+which alter alter finds
+or bend remov remove
+o everfix mark
+that look tempest never shaken
+it star everi wandr bark
+whos worth unknown although height taken
+lov time fool though rosi lip cheeks
+within bend sickl compass come
+lov alter brief hour weeks
+but bear even edg doom
+if error upon provd
+i never writ man ever lovd",85,82,0.9647058823529412
 2894,Emily Dickinson,You left me – Sire – two Legacies – (713),52201,"You left me – Sire – two Legacies –
 A Legacy of Love
 A Heavenly Father would suffice
@@ -185,7 +331,15 @@ Had He the offer of –
 You left me Boundaries of Pain –
 Capacious as the Sea –
 Between Eternity and Time –
-Your Consciousness – and me –",57,56,0.9824561403508772
+Your Consciousness – and me –","left – sire – two legaci –
+a legaci love
+a heaven father would suffice
+had offer –
+
+you left boundari pain –
+capaci sea –
+between etern time –
+your conscious – –",57,56,0.9824561403508772
 2896,Rae Armantrout,Loop,56105,"Curled up in bed,
 I’m young
 in the old way.
@@ -218,7 +372,39 @@ Word
 deciphered
 
 at a snail’s
-pace.",62,58,0.935483870967742
+pace.","curl bed
+i'm young
+in old way
+
+•
+
+one
+continu stroke
+
+without lifting
+th pen
+
+a if
+
+“stem tendril
+stem tendril”
+
+wer words
+of commandment
+
+•
+
+mi next
+ellipt loops
+
+read “praise”
+
+word
+
+deciphered
+
+at snail's
+pac",62,58,0.935483870967742
 2898,"Alfred, Lord Tennyson","To Virgil, Written at the Request of the Manuans for the Nineteenth Centenary of Virgil's Death",45391,"Roman Virgil, thou that singest
 Ilion's lofty temples robed in fire,
 Ilion falling, Rome arising,
@@ -267,7 +453,55 @@ sunder'd once from all the human race,
 I salute thee, Mantovano,
 I that loved thee since my day began,
 Wielder of the stateliest measure
-ever moulded by the lips of man.",78,71,0.9102564102564102
+ever moulded by the lips of man.","roman virgil thou singest
+ilion lofti templ robe fire
+ilion fall rome arising
+war filial faith dido pyre
+
+landscapelov lord language
+mor sang work days
+al chosen coin fancy
+flash mani golden phrase
+
+thou singest wheat woodland
+tilth vineyard hive hors herd
+al charm muses
+often flower lone word
+
+poet happi tityrus
+pip underneath beechen bowers
+poet poetsatyr
+whom laugh shepherd bound flowers
+
+chant pollio glorying
+in bliss year be
+summ snakeless meadow
+unlabori earth oarless sea
+
+thou seëst universal
+natur move univers mind
+thou majest thi sadness
+at doubt doom human kind
+
+light among vanishd ages
+star gildest yet phantom shore
+golden branch amid shadows
+k realm pas rise more
+
+now thi forum roar longer
+fallen everi purpl cæsar dome—
+tho thine oceanrol rhythm
+sound forev imperi rome—
+
+now rome slave hath perishd
+and rome freeman hold place
+i northern island
+sunderd human race
+
+i salut thee mantovano
+i love thee sinc day began
+wield stateliest measure
+ev mould lip man",78,71,0.9102564102564102
 2904,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 83,45347,"Dip down upon the northern shore
 O sweet new-year delaying long;
 Thou doest expectant nature wrong;
@@ -286,7 +520,25 @@ Laburnums, dropping-wells of fire.
 O thou new-year, delaying long,
 Delayest the sorrow in my blood,
 That longs to burst a frozen bud
-And flood a fresher throat with song.",78,72,0.9230769230769232
+And flood a fresher throat with song.","dip upon northern shore
+o sweet newyear delay long
+thou doest expect natur wrong
+delay long delay more
+
+what stay thee cloud noons
+thi sweet proper place
+can troubl live april days
+or sad summer moons
+
+br orchi bring foxglov spire
+th littl speed well darl blue
+deep tulip dashd fieri dew
+laburnum droppingwel fire
+
+o thou newyear delay long
+delayest sorrow blood
+that long burst frozen bud
+and flood fresher throat song",78,72,0.9230769230769232
 2933,Rae Armantrout,Exit Row,58111,"You will buy your life
 as a series
 
@@ -296,6 +548,16 @@ to which you
 will belong.
 
 Have a good flight.
+
+•","buy life
+a series
+
+of experiences
+
+to you
+wil belong
+
+hav good flight
 
 •",62,59,0.9516129032258064
 2939,William Wordsworth,"October, 1803",45534,"These times strike monied worldlings with dismay:
@@ -311,7 +573,20 @@ That every gift of noble origin
 Is breathed upon by Hope's perpetual breath;
 That virtue and the faculties within
 Are vital,—and that riches are akin
-To fear, to change, to cowardice, and death?",59,54,0.9152542372881356
+To fear, to change, to cowardice, and death?","time strike moni worldl dismay
+even rich men brave natur taint air
+with word apprehens despair
+whil ten thousand think affray
+men unto suffici day
+and mind stint until given
+sound healthi child god heaven
+ar cheer rise sun may
+what gather henc firmer faith
+that everi gift nobl origin
+i breath upon hope perpetu breath
+that virtu faculti within
+ar vital—and rich akin
+to fear chang cowardic death",59,54,0.9152542372881356
 2948,William Wordsworth,"September, 1819",45548,"Departing summer hath assumed
 An aspect tenderly illumed,
 The gentlest look of spring;
@@ -380,7 +655,75 @@ Of poesy; a bursting forth
 Of genius from the dust:
 What Horace gloried to behold,
 What Maro loved, shall we enfold?
-Can haughty Time be just!",59,55,0.9322033898305084
+Can haughty Time be just!","depart summer hath assumed
+an aspect tender illumed
+th gentlest look spring
+that call yonder leafi shade
+unfad yet prepar fade
+a time carolling
+
+no faint hesit trill
+such tribut winter chill
+th lone redbreast pays
+clear loud live din
+from social warbler gather in
+their harvest sweet lays
+
+nor doth exampl fail cheer
+m conscious leaf sere
+and yellow bough—
+fal rosi garland head
+y myrtl wreath fragranc shed
+around younger brow
+
+yet temper rejoice
+wid rang free choice
+of undiscord themes
+which hapli kindr soul may prize
+not le vernal ecstasies
+and passion feverish dreams
+
+for deathless power vers belong
+and like demigod strong
+on mus smile
+but function disclaimed
+best pleas aptliest framed
+to enerv defile
+
+not initiatori strains
+commit silent plains
+in britain earliest dawn
+trembl grove star grew pale
+whil alltoodar veil
+of natur withdrawn
+
+nor spiritstir note
+when live chord alcæus smote
+inflam sens wrong
+wo woe tyrant lyre
+brok threaten sparkl dire
+of fierc vindict song
+
+and unhallow page
+bi wingèd love inscrib assuage
+th pang vain pursuit
+lov listen lesbian maid
+with finest touch passion swayed
+h æolian lute
+
+o ye patient explore
+th wreck herculanean lore
+what raptur could ye seize
+som theban fragment unroll
+on precious tenderheart scroll
+of pure simonides
+
+that inde genuin birth
+of poesi burst forth
+of genius dust
+what horac glori behold
+what maro love shall enfold
+can haughti time",59,55,0.9322033898305084
 2952,"Alfred, Lord Tennyson","from
   
   The Princess: Sweet and Low",45383,"Sweet and low, sweet and low,
@@ -399,7 +742,23 @@ Father will come to thee soon;
 Father will come to his babe in the nest,
 Silver sails all out of the west
 Under the silver moon:
-Sleep, my little one, sleep, my pretty one, sleep.",78,73,0.935897435897436
+Sleep, my little one, sleep, my pretty one, sleep.","sweet low sweet low
+wind western sea
+low low breath blow
+wind western sea
+ov roll water go
+com die moon blow
+blow me
+whil littl one pretti one sleeps
+
+sleep rest sleep rest
+fath come thee soon
+rest rest mother breast
+fath come thee soon
+fath come babe nest
+silv sail west
+und silver moon
+sleep littl one sleep pretti one sleep",78,73,0.935897435897436
 2956,William Wordsworth,"Written in London. September, 1802",45565,"O Friend! I know not which way I must look
 For comfort, being, as I am, opprest,
 To think that now our life is only drest
@@ -413,7 +772,20 @@ This is idolatry; and these we adore:
 Plain living and high thinking are no more:
 The homely beauty of the good old cause
 Is gone; our peace, our fearful innocence,
-And pure religion breathing household laws.",59,56,0.9491525423728814
+And pure religion breathing household laws.","friend know way must look
+for comfort opprest
+to think life drest
+for show mean handywork craftsman cook
+or groom — must run glitter like brook
+in open sunshin unblest
+th wealthiest man among u best
+no grandeur natur book
+delight u rapin avaric expense
+thi idolatri adore
+plain live high think more
+th home beauti good old cause
+i gone peac fear innocence
+and pure religion breath household law",59,56,0.9491525423728814
 2970,"Alfred, Lord Tennyson","from
   
   Maud (Part XVIII): I have led her Home, my love, my only friend",50286,"I have led her home, my love, my only friend,
@@ -509,7 +881,100 @@ Beat, happy stars, timing with things below,
 Beat with my heart more blest than heart can tell.
 Blest, but for some dark undercurrent woe
 That seems to draw—but it shall not be so:
-Let all be well, be well.",78,74,0.9487179487179488
+Let all be well, be well.","led home love friend
+ther none like none
+and never yet warm ran blood
+and sweet on
+calm longwishedfor end
+ful bank close promis good
+
+non like none
+just drytongu laurel patter talk
+seem'd light foot along garden walk
+and shook heart think come more
+but even heard close door
+th gate heaven close gone
+
+ther none like none
+nor summer deceased
+o art thou sigh lebanon
+in long breez stream thi delici east
+sigh lebanon
+dark cedar tho thi limb increased
+upon pastor slope fair
+
+and look south fed
+with honey rain delic air
+and haunt starri head
+of whose gentl chang fate
+and made life perfum altarframe
+and thi dark must spread
+with delight old thi great
+forefath thornless garden there
+shadow snowlimb eve came
+
+her lie long branch sway
+and fair star crown happi day
+go merri play
+who forlorn
+a seem far better born
+to labour mattockharden hand
+than nurs eas brought understand
+a sad astrolog boundless plan
+that make tyrant iron skies
+innumer pitiless passionless eyes
+cold fire yet power burn brand
+hi nothing man
+
+but shine care i
+who stormi gulf found pearl
+th countercharm space hollow sky
+and accept mad would die
+to save slight shame one simpl girl
+
+would die sullenseem death may give
+mor life love ever was
+in low world yet tis sweet live
+let one ask came pass
+it seem happi me
+a liveli emerald twinkl grass
+a purer sapphir melt sea
+
+not die live life truest breath
+and teach true life fight mortal wrongs
+oh love like men drinkingsongs
+spic fair banquet dust death
+
+mak answer maud bliss
+maud made maud long love kiss
+lif life wilt thou answer this
+“th duski strand death inwoven here
+with dear love tie make love dear”
+i enchant moan swell
+of long wave roll yonder bay
+and hark clock within silver knell
+of twelv sweet hour past bridal white
+and die live long puls play
+but love close sight
+and given fals death hand stol'n away
+to dream wast footless fanci dwell
+
+among fragment golden day
+may noth maiden grace affright
+dear heart feel thee drowsi spell
+mi bride evermor delight
+mi heart heart ownest farewell
+it littl space go
+and ye meanwhil far moor fell
+beat noiseless music night
+ha whole earth gone nearer glow
+of soft splendour look bright
+i climb nearer lone hell
+beat happi star time thing below
+beat heart blest heart tell
+blest dark undercurr woe
+that seem draw—but shall so
+let well well",78,74,0.9487179487179488
 2974,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 44,45339,"How fares it with the happy dead?
 For here the man is more and more;
 But he forgets the days before
@@ -528,7 +993,25 @@ Surprise thee ranging with thy peers.
 If such a dreamy touch should fall,
 O turn thee round, resolve the doubt;
 My guardian angel will speak out
-In that high place, and tell thee all.",78,75,0.9615384615384616
+In that high place, and tell thee all.","fare happi dead
+for man more
+but forget day before
+god shut doorway head
+
+th day vanishd tone tint
+and yet perhap hoard sense
+g time know whence
+a littl flash mystic hint
+
+and long harmoni years
+if death tast lethean springs
+may dim touch earth things
+surpris thee rang thi peers
+
+if dreami touch fall
+o turn thee round resolv doubt
+mi guardian angel speak out
+in high place tell thee",78,75,0.9615384615384616
 2979,William Wordsworth,Nuns Fret Not at Their Convent’s Narrow Room,52299,"Nuns fret not at their convent’s narrow room;
 And hermits are contented with their cells;
 And students with their pensive citadels;
@@ -542,7 +1025,20 @@ In sundry moods, ’twas pastime to be bound
 Within the Sonnet’s scanty plot of ground;
 Pleased if some Souls (for such there needs must be)
 Who have felt the weight of too much liberty,
-Should find brief solace there, as I have found.",59,57,0.9661016949152542
+Should find brief solace there, as I have found.","nun fret convent narrow room
+and hermit content cells
+and student pensiv citadels
+maid wheel weaver loom
+sit blith happi bee soar bloom
+high highest peak furnessfells
+wil murmur hour foxglov bells
+in truth prison doom
+ourselv prison henc me
+in sundri mood twas pastim bound
+within sonnet scanti plot ground
+pleas soul need must be
+who felt weight much liberty
+should find brief solac found",59,57,0.9661016949152542
 2987,"Alfred, Lord Tennyson",St. Agnes' Eve,45388,"Deep on the convent-roof the snows
 Are sparkling to the moon:
 My breath to heaven like vapour goes;
@@ -580,7 +1076,44 @@ To make me pure of sin.
 The sabbaths of Eternity,
 One sabbath deep and wide—
 A light upon the shining sea—
-The Bridegroom with his bride!",78,76,0.9743589743589745
+The Bridegroom with his bride!","deep conventroof snows
+ar sparkl moon
+mi breath heaven like vapour goes
+may soul follow soon
+th shadow conventtowers
+sl snowi sward
+stil creep creep hours
+that lead lord
+mak thou spirit pure clear
+a frosti skies
+or first snowdrop year
+that bosom lies
+
+a white robe soild dark
+to yonder shine ground
+a pale taper earth spark
+to yonder argent round
+so show soul lamb
+mi spirit thee
+so mine earth hous am
+to hope be
+break heaven lord far
+thro yon starlight keen
+draw thi bride glitter star
+in raiment white clean
+
+h lift golden doors
+th flash come go
+al heaven burst starri floors
+and strow light below
+and deepen gates
+rol back far within
+for heaven bridegroom waits
+to make pure sin
+th sabbath eternity
+on sabbath deep wide—
+a light upon shine sea—
+th bridegroom bride",78,76,0.9743589743589745
 2992,William Wordsworth,The Simplon Pass,45552,"—Brook and road
 Were fellow-travellers in this gloomy Pass,
 And with them did we journey several hours
@@ -600,7 +1133,26 @@ Were all like workings of one mind, the features
 Of the same face, blossoms upon one tree,
 Characters of the great Apocalypse,
 The types and symbols of Eternity,
-Of first and last, and midst, and without end.",59,58,0.9830508474576272
+Of first and last, and midst, and without end.","—brook road
+wer fellowtravel gloomi pass
+and journey sever hours
+at slow step immeasur height
+of wood decay never decayed
+th stationari blast waterfalls
+and narrow rent everi turn
+wind thwart wind bewild forlorn
+th torrent shoot clear blue sky
+th rock mutter close upon ears
+black drizzl crag spake wayside
+a voic sick sight
+and giddi prospect rave stream
+th unfett cloud region heavens
+tumult peac dark light—
+wer like work one mind features
+of face blossom upon one tree
+charact great apocalypse
+th type symbol eternity
+of first last midst without end",59,58,0.9830508474576272
 3004,Rae Armantrout,The Difficulty,57723,"This film, like many others,
 claims we’ll enjoy life
 now that we’ve come through
@@ -619,7 +1171,25 @@ they’re included in this moment
 
 when the credits roll
 and we don’t know
-when to stand",62,60,0.967741935483871
+when to stand","film like mani others
+claim we'll enjoy life
+now we'v come through
+
+difficulti dangers
+so incred condensed
+that must over
+
+if hardship
+wa undergon others
+w identifi them
+
+and danger survived
+bi simpler life forms
+they'r includ moment
+
+when credit roll
+and don't know
+when stand",62,60,0.967741935483871
 3006,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 82,45346,"I wage not any feud with Death
 For changes wrought on form and face;
 No lower life that earth's embrace
@@ -638,7 +1208,25 @@ Will bloom to profit, otherwhere.
 For this alone on Death I wreak
 The wrath that garners in my heart;
 He put our lives so far apart
-We cannot hear each other speak.",78,77,0.9871794871794872
+We cannot hear each other speak.","wage feud death
+for chang wrought form face
+no lower life earth embrace
+may breed fright faith
+
+etern process move on
+from state state spirit walks
+and shatterd stalks
+or ruind chrysali one
+
+nor blame death bare
+th use virtu earth
+i know transplant human worth
+wil bloom profit otherwhere
+
+for alon death wreak
+th wrath garner heart
+h put life far apart
+w cannot hear speak",78,77,0.9871794871794872
 3007,William Shakespeare,"Song: “
   
    Blow, blow, thou winter wind
@@ -652,7 +1240,16 @@ Although thy breath be rude.
 Heigh-ho! sing, heigh-ho! unto the green holly:
 Most friendship is feigning, most loving mere folly:
 Then, heigh-ho, the holly!
-This life is most jolly.",85,83,0.976470588235294
+This life is most jolly.","blow blow thou winter wind
+thou art unkind
+a man ingratitude
+thi tooth keen
+becaus thou art seen
+although thi breath rude
+heighho sing heighho unto green holly
+most friendship feign love mere folly
+then heighho holly
+thi life jolli",85,83,0.976470588235294
 3009,William Shakespeare,Sonnet 129: Th'expense of spirit in a waste of shame,45107,"Th' expense of spirit in a waste of shame
 Is lust in action; and till action, lust
 Is perjured, murd'rous, bloody, full of blame,
@@ -666,7 +1263,20 @@ Had, having, and in quest to have, extreme;
 A bliss in proof and proved, a very woe;
 Before, a joy proposed; behind, a dream.
 All this the world well knows; yet none knows well
-To shun the heaven that leads men to this hell.",85,84,0.9882352941176472
+To shun the heaven that leads men to this hell.","th expens spirit wast shame
+i lust action till action lust
+i perjur murdrous bloodi full blame
+savag extrem rude cruel trust
+enjoy sooner despisèd straight
+past reason hunt sooner had
+past reason hate swallow bait
+on purpos laid make taker mad
+mad pursuit possess so
+had quest extreme
+a bliss proof prove woe
+befor joy propos behind dream
+al world well know yet none know well
+to shun heaven lead men hell",85,84,0.9882352941176472
 3021,Rae Armantrout,Just Saying,54276,"What might be said
 
 to disport itself
@@ -710,4 +1320,47 @@ professionally
 
 as the days
 
-nod and wink.",62,61,0.9838709677419356
+nod and wink.","might said
+
+to disport itself
+
+along cinderblock
+
+in leaves
+
+
+
+
+what write
+
+i write instead
+
+of ivy
+
+
+
+
+green snouts
+
+in evid or—
+
+more
+
+to point—
+
+insolent
+
+and tense
+
+
+
+
+what might said
+
+to writhe
+
+professionally
+
+a days
+
+nod wink",62,61,0.9838709677419356
