@@ -1,4 +1,4 @@
-Unnamed: 0,author,title,poetry_foundation_id,content,author_poem_count,author_poem_index,author_poem_pct
+Unnamed: 0,author,title,poetry_foundation_id,raw_content,clean_content,author_poem_count,author_poem_index,author_poem_pct
 1848,Emily Dickinson,"I started Early – Took my Dog – (656)
  
  
@@ -53,7 +53,57 @@ Would overflow with Pearl –
 Until We met the Solid Town –
 No One He seemed to know –
 And bowing – with a Mighty look –
-At me – The Sea withdrew –",57,40,0.7017543859649122
+At me – The Sea withdrew –","highlight actions
+en disabl annotations
+i start earli – took dog –
+and visit sea –
+the mermaid the
+basement
+basement
+i bottom ocean
+
+cam look –
+
+and
+frigates
+frigates
+fast high maneuver warship th th centuri use escort larger ship patrol coast blockad harbors
+– upper floor
+extended
+hempen hands
+hempen hands
+strong thick rope made hemp use ships
+–
+presum mous –
+aground –
+opon
+opon
+upon
+th sand –
+
+but man move – till tide
+w past simpl shoe –
+and past apron – belt
+and past my
+boddice
+boddice
+bodic upper part woman dress rigid lace corset worn underneath cloth cover upper part woman body
+– –
+
+and made would eat –
+as wholli dew
+opon dandelion sleev –
+and – start – –
+
+and – follow – close behind –
+i felt silver heel
+opon ancl – shoes
+would overflow pearl –
+
+until met solid town –
+no one seem know –
+and bow – mighti look –
+at – sea withdrew –",57,40,0.7017543859649122
 1910,Emily Dickinson,I never hear the word “Escape” (144),48185,"I never hear the word “Escape”
 Without a quicker blood,
 A sudden expectation –
@@ -62,7 +112,15 @@ A flying attitude!
 I never hear of prisons broad
 By soldiers battered down,
 But I tug childish at my bars
-Only to fail again!",57,41,0.7192982456140351
+Only to fail again!","never hear word “escape”
+without quicker blood
+a sudden expect –
+a fli attitude
+
+i never hear prison broad
+bi soldier batter down
+but tug childish bars
+on fail",57,41,0.7192982456140351
 2011,Emily Dickinson,How many times these low feet staggered (238),51611,"How many times these low feet staggered -
 Only the soldered mouth can tell -
 Try - can you stir the awful rivet -
@@ -76,7 +134,10 @@ Never a thimble - more - shall wear -
 Buzz the dull flies - on the chamber window -
 Brave - shines the sun through the freckled pane -
 Fearless - the cobweb swings from the ceiling -
-Indolent Housewife - in Daisies - lain!",57,42,0.7368421052631579
+Indolent Housewife - in Daisies - lain!","mani time low foot stagger solder mouth tell tri stir aw rivet tri lift hasp steel
+
+strok cool forehead hot often lift care listless hair handl adamantin fingers
+nev thimbl shall wear buzz dull fli chamber window brave shine sun freckl pane fearless cobweb swing ceil indol housewif daisi lain",57,42,0.7368421052631579
 2032,Emily Dickinson,Snow flakes. (45),49358,"I counted till they danced so
 Their slippers leaped the town –
 And then I took a pencil
@@ -84,7 +145,14 @@ To note the rebels down –
 And then they grew so jolly
 I did resign the prig –
 And ten of my once stately toes
-Are marshalled for a jig!",57,43,0.7543859649122807
+Are marshalled for a jig!","count till danc so
+their slipper leap town –
+and took pencil
+to note rebel –
+and grew jolly
+i resign prig –
+and ten state toes
+ar marshal jig",57,43,0.7543859649122807
 2039,Emily Dickinson,Some keep the Sabbath going to Church – (236),52138,"Some keep the Sabbath going to Church –
 I keep it, staying at Home –
 With a Bobolink for a Chorister –
@@ -98,11 +166,27 @@ Our little Sexton – sings.
 God preaches, a noted Clergyman –
 And the sermon is never long,
 So instead of getting to Heaven, at last –
-I’m going, all along.",57,44,0.7719298245614035
+I’m going, all along.","keep sabbath go church –
+i keep stay home –
+with bobolink chorist –
+and orchard dome –
+
+some keep sabbath surplic –
+i wear wing –
+and instead toll bell church
+our littl sexton – sings
+
+god preach note clergyman –
+and sermon never long
+so instead get heaven last –
+i'm go along",57,44,0.7719298245614035
 2183,Emily Dickinson,Of Glory not a Beam is left (1685),52203,"Of Glory not a Beam is left
 But her Eternal House –
 The Asterisk is for the Dead,
-The Living, for the Stars –",57,45,0.7894736842105263
+The Living, for the Stars –","glori beam left
+but etern hous –
+the asterisk dead
+th live star –",57,45,0.7894736842105263
 2186,Emily Dickinson,Now I knew I lost her — (1274),56825,"Now I knew I lost her —
 Not that she was gone —
 But Remoteness travelled
@@ -125,7 +209,29 @@ His is Penury
 Not who toils for Freedom
 Or for Family
 But the Restitution
-Of Idolatry.",57,46,0.8070175438596491
+Of Idolatry.","knew lost —
+not gone —
+but remot travelled
+on face tongue
+
+alien though adjoining
+a foreign race —
+travers though pausing
+latitudeless place
+
+el unalt —
+univers same
+but love transmigr —
+somehow come —
+
+henceforth remember
+natur took day
+i paid much —
+his penury
+not toil freedom
+or family
+but restitution
+of idolatri",57,46,0.8070175438596491
 2190,William Shakespeare,"Song: “
   
    When that I was and a little tiny boy (
@@ -156,7 +262,33 @@ For the rain it raineth every day.
 A great while ago the world begun,
 With hey, ho, the wind and the rain,
 But that’s all one, our play is done,
-And we’ll strive to please you every day.",85,60,0.7058823529411765
+And we’ll strive to please you every day.","from
+twelfth night
+
+when littl tini boy
+with hey ho wind rain
+a foolish thing toy
+for rain raineth everi day
+
+but came man estate
+with hey ho wind rain
+'gainst knave thief men shut gate
+for rain raineth everi day
+
+but came ala wive
+with hey ho wind rain
+bi swagger could never thrive
+for rain raineth everi day
+
+but came unto beds
+with hey ho wind rain
+with tosspot still drunken heads
+for rain raineth everi day
+
+a great ago world begun
+with hey ho wind rain
+but that one play done
+and we'll strive pleas everi day",85,60,0.7058823529411765
 2213,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 67,45343,"When on my bed the moonlight falls,
 I know that in thy place of rest
 By that broad water of the west,
@@ -175,7 +307,25 @@ I sleep till dusk is dipt in gray:
 And then I know the mist is drawn
 A lucid veil from coast to coast,
 And in the dark church like a ghost
-Thy tablet glimmers to the dawn.",78,55,0.7051282051282052
+Thy tablet glimmers to the dawn.","bed moonlight falls
+i know thi place rest
+bi broad water west
+ther come glori walls
+
+thi marbl bright dark appears
+a slowli steal silver flame
+along letter thi name
+and oer number thi years
+
+th mystic glori swim away
+from bed moonlight dies
+and close eav weari eyes
+i sleep till dusk dipt gray
+
+and know mist drawn
+a lucid veil coast coast
+and dark church like ghost
+thi tablet glimmer dawn",78,55,0.7051282051282052
 2227,William Shakespeare,"Song: “
   
    It was a lover and his lass
@@ -188,7 +338,15 @@ With a hey, and a ho, and a hey nonino,
 That o’er the green cornfield did pass,
 In springtime, the only pretty ring time,
 When birds do sing, hey ding a ding, ding;
-Sweet lovers love the spring",85,61,0.7176470588235294
+Sweet lovers love the spring","from
+a like it
+
+it lover lass
+with hey ho hey nonino
+that o'er green cornfield pass
+in springtim pretti ring time
+when bird sing hey ding ding ding
+sweet lover love spring",85,61,0.7176470588235294
 2239,William Shakespeare,Sonnet 15: When I consider everything that grows,45086,"When I consider everything that grows
 Holds in perfection but a little moment,
 That this huge stage presenteth nought but shows
@@ -202,7 +360,20 @@ Sets you most rich in youth before my sight,
 Where wasteful Time debateth with Decay
 To change your day of youth to sullied night;
 And all in war with Time for love of you,
-As he takes from you, I engraft you new.",85,62,0.7294117647058823
+As he takes from you, I engraft you new.","consid everyth grows
+hold perfect littl moment
+that huge stage presenteth nought shows
+whereon star secret influenc comment
+when perceiv men plant increase
+ch checkd even selfsam sky
+vaunt youth sap height decrease
+and wear brave state memory
+then conceit inconst stay
+set rich youth sight
+wher wast time debateth decay
+to chang day youth sulli night
+and war time love you
+a take engraft new",85,62,0.7294117647058823
 2240,William Shakespeare,"Speech: “
   
    Now is the winter of our discontent
@@ -251,7 +422,50 @@ This day should Clarence closely be mew'd up,
 About a prophecy, which says that 'G'
 Of Edward's heirs the murderer shall be.
 Dive, thoughts, down to my soul: here
-Clarence comes.",85,63,0.7411764705882353
+Clarence comes.","from
+richard iii spoken gloucester
+now winter discontent
+mad glorious summer sun york
+and cloud lourd upon house
+in deep bosom ocean buried
+now brow bound victori wreaths
+our bruis arm hung monuments
+our stern alarum chang merri meetings
+our dread march delight measures
+grimvisag war hath smoothd wrinkl front
+and instead mount bard steeds
+to fright soul fear adversaries
+h caper nimbl ladi chamber
+to lascivi pleas lute
+but shape sportiv tricks
+nor made court amor lookingglass
+i rude stampd want love majesty
+to strut wanton ambl nymph
+i curtaild fair proportion
+ch featur dissembl nature
+deform unfinishd sent time
+into breath world scarc half made up
+and lame unfashionable
+that dog bark halt them
+whi weak pipe time peace
+hav delight pas away time
+unless spi shadow sun
+and descant mine deformity
+and therefor sinc cannot prove lover
+to entertain fair wellspoken days
+i determin prove villain
+and hate idl pleasur days
+plot laid induct dangerous
+bi drunken propheci libel dreams
+to set brother clarenc king
+in dead hate one other
+and king edward true just
+a subtl fals treacherous
+thi day clarenc close mewd up
+about propheci say g
+of edward heir murder shall be
+div thought soul here
+clar come",85,63,0.7411764705882353
 2257,William Shakespeare,"Sonnet 110: Alas, 'tis true I have gone here and there",45104,"Alas, 'tis true I have gone here and there
 And made myself a motley to the view,
 Gor'd mine own thoughts, sold cheap what is most dear,
@@ -265,7 +479,20 @@ Mine appetite, I never more will grind
 On newer proof, to try an older friend,
 A god in love, to whom I am confin'd.
 Then give me welcome, next my heaven the best,
-Even to thy pure and most most loving breast.",85,64,0.7529411764705882
+Even to thy pure and most most loving breast.","ala ti true gone there
+and made motley view
+gord mine thought sold cheap dear
+mad old offenc affect new
+most true lookd truth
+ask strang above
+thes blench gave heart anoth youth
+and wors essay provd thee best love
+now done shall end
+min appetit never grind
+on newer proof tri older friend
+a god love confind
+then give welcom next heaven best
+even thi pure love breast",85,64,0.7529411764705882
 2314,Rae Armantrout,Asymmetries,58346,"I’m thinking about you and you’re humming while cutting a piece of wood.
 I’m positive you aren’t thinking about me which is fine as long as you
 aren’t thinking about yourself. I know and love the way you inhabit
@@ -274,7 +501,15 @@ the man you picture when you see yourself walking around
 the world inside your head and I’m jealous
 of the attention you pay that person
 whom I suspect
-of being devious.",62,44,0.7096774193548387
+of being devious.","i'm think you'r hum cut piec wood
+i'm posit aren't think fine long you
+aren't think know love way inhabit
+thi hous occas mutual creat don't know
+th man pictur see walk around
+th world insid head i'm jealous
+of attent pay person
+whom suspect
+of devious",62,44,0.7096774193548387
 2315,William Wordsworth,Mutability,45531,"From low to high doth dissolution climb,
 And sink from high to low, along a scale
 Of awful notes, whose concord shall not fail;
@@ -288,7 +523,20 @@ And is no more; drop like the tower sublime
 Of yesterday, which royally did wear
 His crown of weeds, but could not even sustain
 Some casual shout that broke the silent air,
-Or the unimaginable touch of Time.",59,42,0.7118644067796609
+Or the unimaginable touch of Time.","low high doth dissolut climb
+and sink high low along scale
+of aw note whose concord shall fail
+a music melancholi chime
+which hear meddl crime
+nor avaric overanxi care
+truth fail outward form bear
+th longest date melt like frosti rime
+that morn whiten hill plain
+and drop like tower sublime
+of yesterday royal wear
+hi crown weed could even sustain
+som casual shout broke silent air
+or unimagin touch time",59,42,0.7118644067796609
 2323,William Wordsworth,"Yarrow Visited. September, 1814",45567,"And is this—Yarrow?—This the stream
 Of which my fancy cherished,
 So faithfully, a waking dream?
@@ -386,7 +634,104 @@ Sad thought, which I would banish,
 But that I know, where'er I go,
 Thy genuine image, Yarrow!
 Will dwell with me—to heighten joy,
-And cheer my mind in sorrow.",59,43,0.7288135593220338
+And cheer my mind in sorrow.","this—yarrow—thi stream
+of fanci cherished
+so faith wake dream
+an imag hath perished
+o minstrel harp near
+to utter note gladness
+and chase silenc air
+that fill heart sadness
+
+yet why—a silveri current flows
+with uncontrol meanderings
+nor eye greener hills
+been sooth wanderings
+and depth saint mari lake
+i visibl delighted
+for featur hills
+i mirror slighted
+
+a blue sky bend oer yarrow vale
+sav pear whiteness
+i round rise sun diffused
+a tender hazi brightness
+mild dawn promis excludes
+al profitless dejection
+though unwil admit
+a pensiv recollection
+
+wher famous flower
+of yarrow vale lay bleeding
+hi bed perchanc yon smooth mound
+on herd feeding
+and hapli crystal pool
+now peac morning
+th waterwraith ascend thrice—
+and gave dole warning
+
+delici lay sings
+th haunt happi lovers
+th path lead grove
+th leafi grove covers
+and piti sanctifi verse
+that paint strength sorrow
+th unconquer strength love
+bear wit rueful yarrow
+
+but thou didst appear fair
+to fond imagination
+dost rival light day
+her delic creation
+meek loveli round thee spread
+a soft still holy
+th grace forest charm decayed
+and pastor melancholy
+
+that region left vale unfolds
+rich grove lofti stature
+with yarrow wind pomp
+of cultiv nature
+and rise lofti groves
+behold ruin hoary
+th shatter front newark towers
+renown border story
+
+fair scene childhood open bloom
+for sportiv youth stray in
+for manhood enjoy strength
+and age wear away in
+yon cottag seem bower bliss
+a covert protection
+of tender thought nestl there—
+th brood chast affection
+
+how sweet autumn day
+th wildwood fruit gather
+and truelov forehead plant
+a crest bloom heather
+and enwreath own
+twer offenc reason
+th sober hill thus deck brows
+to meet wintri season
+
+i see—but sight alone
+lov yarrow thee
+a ray fanci still survives—
+h sunshin play upon thee
+thi everyouth water keep
+a cours live pleasure
+and gladsom note lip breathe
+accord measure
+
+th vapour linger round heights
+they melt soon must vanish
+on hour mine—
+sad thought would banish
+but know whereer go
+thi genuin imag yarrow
+wil dwell me—to heighten joy
+and cheer mind sorrow",59,43,0.7288135593220338
 2328,Rae Armantrout,The Job,147626,"Attending to verbal constructs
 makes care long-term,
 not acute,
@@ -412,7 +757,32 @@ I move my eyes
 to make time.
 
 I take their measure
-and create a duplicate.",62,45,0.7258064516129032
+and create a duplicate.","attend verbal constructs
+mak care longterm
+not acute
+
+which best
+becaus though flawed
+each one salvageable
+
+or replaceable
+unlik flesh
+word compared
+
+with moments
+hous tree wires
+wir tree houses
+
+al stand
+on marks
+still
+
+ther lot overlap
+i move eyes
+to make time
+
+i take measure
+and creat duplic",62,45,0.7258064516129032
 2340,Emily Dickinson,Success is counted sweetest (112),45721,"Success is counted sweetest
 By those who ne'er succeed.
 To comprehend a nectar
@@ -426,7 +796,20 @@ So clear of victory
 As he defeated – dying –
 On whose forbidden ear
 The distant strains of triumph
-Burst agonized and clear!",57,47,0.8245614035087719
+Burst agonized and clear!","success count sweetest
+bi neer succeed
+to comprehend nectar
+requir sorest need
+
+not one purpl host
+who took flag today
+can tell definition
+so clear victory
+
+a defeat – die –
+on whose forbidden ear
+th distant strain triumph
+burst agon clear",57,47,0.8245614035087719
 2342,William Shakespeare,Sonnet 20: A woman’s face with nature’s own hand painted,50425,"A woman’s face with nature’s own hand painted
 Hast thou, the master-mistress of my passion;
 A woman’s gentle heart, but not acquainted
@@ -440,7 +823,20 @@ Till nature as she wrought thee fell a-doting,
 And by addition me of thee defeated
 By adding one thing to my purpose nothing.
 But since she pricked thee out for women's pleasure,
-Mine be thy love and thy love’s use their treasure.",85,65,0.7647058823529411
+Mine be thy love and thy love’s use their treasure.","woman face natur hand painted
+hast thou mastermistress passion
+a woman gentl heart acquainted
+with shift chang fals women fashion
+an eye bright le fals rolling
+gild object whereupon gazeth
+a man hue hue controlling
+which steal men eye women soul amazeth
+and woman wert thou first created
+til natur wrought thee fell adoting
+and addit thee defeated
+bi ad one thing purpos nothing
+but sinc prick thee woman pleasure
+min thi love thi love use treasur",85,65,0.7647058823529411
 2343,William Shakespeare,Sonnet 55: Not marble nor the gilded monuments,46455,"Not marble nor the gilded monuments
 Of princes shall outlive this powerful rhyme,
 But you shall shine more bright in these contents
@@ -454,7 +850,20 @@ Shall you pace forth; your praise shall still find room
 Even in the eyes of all posterity
 That wear this world out to the ending doom.
 So, till the Judgement that yourself arise,
-You live in this, and dwell in lovers’ eyes.",85,66,0.7764705882352941
+You live in this, and dwell in lovers’ eyes.","marbl gild monuments
+of princ shall outliv power rhyme
+but shall shine bright contents
+than unswept stone besmear sluttish time
+when wast war shall statu overturn
+and broil root work masonry
+nor mar sword war quick fire shall burn
+th live record memory
+'gainst death alloblivi enmity
+shal pace forth prais shall still find room
+even eye posterity
+that wear world end doom
+so till judgement arise
+you live dwell lover eye",85,66,0.7764705882352941
 2358,William Shakespeare,"Speech: “
   
    Once more unto the breach, dear friends, once more
@@ -495,7 +904,42 @@ That hath not noble lustre in your eyes.
 I see you stand like greyhounds in the slips,
 Straining upon the start. The game's afoot:
 Follow your spirit, and upon this charge
-Cry 'God for Harry, England, and Saint George!'",85,67,0.7882352941176469
+Cry 'God for Harry, England, and Saint George!'","from
+henri v spoken king henry
+onc unto breach dear friend more
+or close wall english dead
+in peac there noth becom man
+a modest still humility
+but blast war blow ears
+then imit action tiger
+stiffen sinew summon blood
+disguis fair natur hardfavourd rage
+then lend eye terribl aspect
+let pri portag head
+lik brass cannon let brow oerwhelm it
+a fear doth gall rock
+oerhang jutti confound base
+swilld wild wast ocean
+now set teeth stretch nostril wide
+hold hard breath bend everi spirit
+to full height noblest english
+whos blood fet father warproof
+fath like mani alexanders
+hav part morn till even fought
+and sheath sword lack argument
+dishonour mother attest
+that calld father beget you
+b copi men grosser blood
+and teach war good yeoman
+whos limb made england show u here
+th mettl pastur let u swear
+that worth breed doubt not
+for none mean base
+that hath nobl lustr eyes
+i see stand like greyhound slips
+strain upon start game afoot
+follow spirit upon charge
+cri god harri england saint georg",85,67,0.7882352941176469
 2360,Rae Armantrout,Piece,144606,"What is a brand?
 The hopeful tag
 
@@ -523,7 +967,34 @@ made entirely of red flags.
 Untiring, music
 rises
 then falls through
-its imagined past.",62,46,0.7419354838709677
+its imagined past.","brand
+th hope tag
+
+on tan underpants
+that read “metaphor”
+
+leav everything
+to imagination
+
+which now
+i plain exhausted
+
+i could describ tags
+a many
+
+flap tongues
+drop hints
+
+about foreign designer
+himself larg cover story
+
+someon somewher must sew shirt
+mad entir red flags
+
+untir music
+rises
+then fall through
+it imagin past",62,46,0.7419354838709677
 2363,"Alfred, Lord Tennyson",Oenone,45373,"There lies a vale in Ida, lovelier
 Than all the valleys of Ionian hills.
 The swimming vapour slopes athwart the glen,
@@ -815,7 +1286,298 @@ A fire dances before her, and a sound
 Rings ever in her ears of armed men.
 What this may be I know not, but I know
 That, wheresoe'er I am by night and day,
-All earth and air seem only burning fire.""",78,56,0.7179487179487181
+All earth and air seem only burning fire.""","lie vale ida lovelier
+than valley ionian hills
+th swim vapour slope athwart glen
+put forth arm creep pine pine
+and loiter slowli drawn either hand
+th lawn meadowledg midway down
+hang rich flower far roars
+th long brook fall thro clovn ravine
+in cataract cataract sea
+behind valley topmost gargarus
+stand take morn front
+th gorg open wide apart reveal
+troa ilion columnd citadel
+th crown troas
+
+hith came noon
+mourn oenon wander forlorn
+of pari playmat hills
+her cheek lost rose round neck
+float hair seemd float rest
+sh lean fragment twine vine
+sang still till mountainshade
+slop downward seat upper cliff
+
+o mother ida manyfountaind ida
+dear mother ida harken ere die
+for noonday quiet hold hill
+th grasshopp silent grass
+th lizard shadow stone
+rest like shadow wind dead
+th purpl flower droop golden bee
+i lilycradl alon awake
+mi eye full tear heart love
+mi heart break eye dim
+and aweari life
+
+o mother ida manyfountaind ida
+dear mother ida harken ere die
+hear earth hear hill caves
+that hous cold crownd snake mountain brooks
+i daughter rivergod
+hear speak build all
+mi sorrow song yonder walls
+ros slowli music slowli breathed
+a cloud gatherd shape may be
+that speak littl while
+mi heart may wander deeper woe
+
+o mother ida manyfountaind ida
+dear mother ida harken ere die
+i wait underneath dawn hills
+aloft mountain lawn dewydark
+and dewydark aloft mountain pine
+beauti pari evilheart paris
+lead jetblack goat whitehornd whitehooved
+cam reedi simoi alone
+
+o mother ida harken ere die
+faroff torrent calld cleft
+far solitari morn smote
+th streak virgin snow downdropt eyes
+i sat alon whitebreast like star
+front dawn move leopard skin
+droopd shoulder sunni hair
+clusterd templ like gods
+and cheek brightend foambow brightens
+when wind blow foam heart
+went forth embrac come ere came
+
+dear mother ida harken ere die
+h smile open milkwhit palm
+disclos fruit pure hesperian gold
+that smelt ambrosi lookd
+and listend fullflow river speech
+cam upon heart
+
+mi oenone
+beautifulbrowd oenon soul
+behold fruit whose gleam rind ingravn
+for fair would seem award thine
+a loveli whatev oread haunt
+th knoll ida loveliest grace
+of movement charm marri brows
+
+dear mother ida harken ere die
+h prest blossom lip mine
+and ad cast upon board
+when fullfac presenc gods
+rang hall peleus whereupon
+ros feud question unto twere due
+but lightfoot iri brought yestereve
+deliv common voice
+elect umpir herè come today
+palla aphroditè claim each
+thi meed fairest thou within cave
+behind yon whisper tuft oldest pine
+mayst well behold unbeheld unheard
+hear see thi pari judg gods
+
+dear mother ida harken ere die
+it deep midnoon one silveri cloud
+had lost way piney sides
+of long glen bower came
+nak came smoothsward bower
+and foot crocus brake like fire
+violet amaracus asphodel
+loto lili wind arose
+and overhead wander ivi vine
+thi way mani wild festoon
+ran riot garland gnarl boughs
+with bunch berri flower thro thro
+
+o mother ida harken ere die
+on treetop crest peacock lit
+and oer flowd golden cloud leand
+upon slowli drop fragrant dew
+then first heard voic whom
+com thro heaven like light grows
+larg clearer one mind gods
+ris rever pari made
+proff royal power ampl rule
+unquestiond overflow revenue
+wherewith embellish state mani vale
+and riversunderd champaign cloth corn
+or labourd mine undrain ore
+honour said homag tax toll
+from mani inland town large
+mastthrongd beneath shadow citadel
+in glassi bay among tallest towers
+
+o mother ida harken ere die
+stil spake still spake power
+which action end all
+pow fit season wisdombred
+and throne wisdom—from neighbour crowns
+alli allegi till thi hand
+fail sceptrestaff boon me
+from heaven queen pari thee kingborn
+a shepherd thi life yet kingborn
+should come welcom see men power
+on likest god attaind
+rest happi place quiet seats
+abov thunder undi bliss
+in knowledg supremacy
+
+dear mother ida harken ere die
+sh ceas pari held cost fruit
+out armslength much thought power
+flatterd spirit palla stood
+somewhat apart clear bare limbs
+oerthwart brazenhead spear
+upon pear shoulder lean cold
+th full earnest eye
+ov snowcold breast angri cheek
+kept watch wait decis made reply
+
+selfrever selfknowledg selfcontrol
+thes three alon lead life sovereign power
+yet power power herself
+would come uncalld live law
+act law live without fear
+and right right follow right
+wer wisdom scorn consequence
+
+dear mother ida harken ere die
+again said woo thee gifts
+sequel guerdon could alter me
+to fairer judg thou am
+so shalt thou find fairest
+
+yet indeed
+if gaze divin disrobed
+thi mortal eye frail judg fair
+unbiasd selfprofit oh rest thee sure
+that shall love thee well cleav thee
+so vigour wed thi blood
+shal strike within thi puls like gods
+to push thee forward thro life shocks
+dang deed endur grow
+sinewd action fullgrown will
+circl thro experi pure law
+commeasur perfect freedom
+
+her ceasd
+and pari ponderd cri paris
+g palla heard not
+or hear would hear woe me
+
+o mother ida manyfountaind ida
+dear mother ida harken ere die
+idalian aphroditè beautiful
+fresh foam newbath paphian wells
+with rosi slender finger backward drew
+from warm brow bosom deep hair
+ambrosi golden round lucid throat
+and shoulder violet light foot
+shon rosywhit oer round form
+between shadow vinebunches
+flo glow sunlight moved
+
+dear mother ida harken ere die
+sh subtl smile mild eyes
+th herald triumph draw nigh
+halfwhisperd ear promis thee
+th fairest love wife greece
+sh spoke laughd shut sight fear
+but lookd pari rais arm
+and beheld great herè angri eyes
+a withdrew golden cloud
+and left alon within bower
+and time alone
+and shall alon die
+
+yet mother ida harken ere die
+fairest—whi fairest wife fair
+mi love hath told thousand times
+methink must fair yesterday
+when past wild wanton pard
+ey like even star play tail
+crouchd fawn weed love she
+ah mountain shepherd arms
+wer wound thee hot lip prest
+clos close thine quickfal dew
+of fruit kiss thick autumn rains
+flash pool whirl simois
+
+o mother hear yet die
+they came cut away tallest pines
+mi tall dark pine plume craggi ledge
+high blue gorg between
+th snowi peak snowwhit cataract
+fosterd callow eaglet—from beneath
+whos thick mysteri bough dark morn
+th panther roar came muffl sat
+low valley never never more
+shal lone oenon see morn mist
+sweep thro never see overlaid
+with narrow moonlit slip silver cloud
+between loud stream trembl stars
+
+o mother hear yet die
+i wish somewher ruind folds
+among fragment tumbl glens
+or dri thicket could meet her
+th abomin uninvit came
+into fair peleian banquethall
+and cast golden fruit upon board
+and bred chang might speak mind
+and tell face much hate
+h presenc hate god men
+
+o mother hear yet die
+hath sworn love thousand times
+in green valley green hill
+evn hand sit stone
+seald kiss waterd tears
+o happi tear unlik these
+o happi heaven canst thou see face
+o happi earth canst thou bear weight
+o death death death thou everflo cloud
+ther enough unhappi earth
+pass happi soul love live
+i pray thee pas light life
+and shadow soul may die
+thou weighest heavi heart within
+weigh heavi eyelid let die
+
+o mother hear yet die
+i die alon fieri thoughts
+do shape within more
+whereof catch issu hear
+dead sound night come inmost hills
+lik footstep upon wool dim see
+mi faroff doubt purpos mother
+conjectur featur child
+er born child—a shudder comes
+across never child born me
+unblest vex father eyes
+
+o mother hear yet die
+hear earth die alone
+lest shrill happi laughter come me
+walk cold starless road death
+uncomfort leav ancient love
+with greek woman rise go
+down troy ere star come forth
+talk wild cassandra says
+a fire danc sound
+r ever ear arm men
+what may know know
+that whereso night day
+al earth air seem burn fire",78,56,0.7179487179487181
 2368,"Alfred, Lord Tennyson","Late, Late, so Late",45361,"Late, late, so late! and dark the night and chill!
 Late, late, so late! but we can enter still.
 Too late, too late! ye cannot enter now.
@@ -830,7 +1592,21 @@ Too late, too late: ye cannot enter now.
 
 Have we not heard the bridegroom is so sweet?
 O, let us in, tho' late, to kiss his feet!
-No, no, too late! ye cannot enter now.""",78,57,0.7307692307692307
+No, no, too late! ye cannot enter now.""","late late late dark night chill
+lat late late enter still
+too late late ye cannot enter now
+
+no light repent
+and learn bridegroom relent
+too late late ye cannot enter now
+
+no light late dark chill night
+o let u may find light
+too late late ye cannot enter now
+
+hav heard bridegroom sweet
+o let u tho late kiss feet
+no late ye cannot enter",78,57,0.7307692307692307
 2389,"Alfred, Lord Tennyson",Recollections of the Arabian Nights,45387,"When the breeze of a joyful dawn blew free
 In the silken sail of infancy,
 The tide of time flow'd back with me,
@@ -997,7 +1773,173 @@ Thereon, his deep eye laughter-stirr'd
 With merriment of kingly pride,
 Sole star of all that place and time,
 I saw him—in his golden prime,
-THE GOOD HAROUN ALRASCHID!",78,58,0.7435897435897436
+THE GOOD HAROUN ALRASCHID!","breez joy dawn blew free
+in silken sail infancy
+th tide time flowd back me
+th forwardflow tide time
+and mani sheeni summermorn
+adown tigri borne
+bi bagdat shrine fret gold
+highwal garden green old
+tru mussulman sworn
+for golden prime
+of good haroun alraschid
+
+anight shallop rustl thro
+th low bloom foliag drove
+th fragrant glisten deep clove
+th citronshadow blue
+bi garden porch brim
+th cost door flung open wide
+gold glitter thro lamplight dim
+and broiderd sofa side
+in sooth good time
+for golden prime
+of good haroun alraschid
+
+often clearstemmd platan guard
+th outlet turn away
+th boathead broad canal
+from main river sluic all
+th slope moonlit sward
+wa damaskwork deep inlay
+of braid bloom unmown crept
+adown water slept
+a good place good time
+for golden prime
+of good haroun alraschid
+
+a motion river won
+ridg smooth level bear on
+mi shallop thro starstrown calm
+until anoth night night
+i enterd clearer light
+imbowerd vault pillard palm
+imprison sweet clomb
+heavenward stayd beneath dome
+of hollow boughs—a good time
+for golden prime
+of good haroun alraschid
+
+stil onward clear canal
+i round clear lake
+from green rivag mani fall
+of diamond rillet musical
+thro littl crystal arch low
+down central fountain flow
+falln silverchim seemd shake
+th sparkl flint beneath prow
+a good place good time
+for golden prime
+of good haroun alraschid
+
+abov thro mani boweri turn
+a walk varycolourd shells
+wanderd engraind either side
+al round fragrant marge
+from flute vase brazen urn
+in order eastern flower large
+som drop low crimson bells
+halfclos other stud wide
+with disk tiar fed time
+with odour golden prime
+of good haroun alraschid
+
+far lemongrove
+in closest covertur upsprung
+th live air middl night
+di round bulbul sung
+not someth possessd
+th dark world delight
+lif anguish death immort love
+ceas mingl unrepressd
+apart place withhold time
+but flatter golden prime
+of good haroun alraschid
+
+black gardenbow grots
+slumberd solemn palm ranged
+abov unwood summer wind
+a sudden splendour behind
+flushd leaf rich goldgreen
+and flow rapid between
+their interspac counterchanged
+th level lake diamondplots
+of dark bright love time
+for golden prime
+of good haroun alraschid
+
+darkblu deep sphere overhead
+distinct vivid star inlaid
+grew darker underflame
+so leap light boat
+with silver anchor left afloat
+in marvel whenc glori came
+upon sleep sank
+in cool soft turf upon bank
+entranc place time
+so worthi golden prime
+of good haroun alraschid
+
+th thro garden drawn—
+a realm pleasanc mani mound
+and mani shadowchequerd lawn
+ful citi stilli sound
+and deep myrrhthicket blow round
+th state cedar tamarisks
+thick rosari scent thorn
+tal orient shrub obelisks
+graven emblem time
+in honour golden prime
+of good haroun alraschid
+
+with daze vision unawares
+from long alley lattic shade
+emerg came upon great
+pavilion caliphat
+right carven cedarn doors
+flung inward spangl floors
+broadbas flight marbl stairs
+ran golden balustrade
+aft fashion time
+and humour golden prime
+of good haroun alraschid
+
+th fourscor window alight
+a quintess flame
+a million taper flare bright
+from twist silver lookd shame
+th hollowvault dark streamd
+upon moon dome aloof
+in inmost bagdat till seemd
+hundr crescent roof
+of night newrisen marvel time
+to celebr golden prime
+of good haroun alraschid
+
+then stole trancedly
+gaz persian girl alone
+seren argentlid eyes
+amor lash like rays
+of dark brow pearl
+tress redol ebony
+in mani dark delici curl
+flow beneath rosehu zone
+th sweetest ladi time
+wel worthi golden prime
+of good haroun alraschid
+
+six column three either side
+pur silver underpropt rich
+thron massiv ore which
+downdroopd mani float fold
+engarland diaperd
+with inwrought flower cloth gold
+thereon deep eye laughterstirrd
+with merriment king pride
+sol star place time
+i saw him—in golden prime
+th good haroun alraschid",78,58,0.7435897435897436
 2393,"Alfred, Lord Tennyson","from
   
   The Princess: Ask me no more",45377,"Ask me no more: the moon may draw the sea;
@@ -1016,7 +1958,23 @@ Ask me no more: thy fate and mine are seal'd:
 I strove against the stream and all in vain:
 Let the great river take me to the main:
 No more, dear love, for at a touch I yield;
-Ask me no more.",78,59,0.7564102564102564
+Ask me no more.","ask moon may draw sea
+th cloud may stoop heaven take shape
+with fold fold mountain cape
+but fond answerd thee
+ask more
+
+ask answer give
+i love hollow cheek fade eye
+yet friend thee die
+ask lest bid thee live
+ask more
+
+ask thi fate mine seald
+i strove stream vain
+let great river take main
+no dear love touch yield
+ask",78,59,0.7564102564102564
 2406,"Alfred, Lord Tennyson","from
   
   The Princess: O Swallow",45381,"O Swallow, Swallow, flying, flying South,
@@ -1049,7 +2007,37 @@ And brief the moon of beauty in the South.
 
 O Swallow, flying from the golden woods,
 Fly to her, and pipe and woo her, and make her mine,
-And tell her, tell her, that I follow thee.",78,60,0.7692307692307693
+And tell her, tell her, that I follow thee.","swallow swallow fli fli south
+fli fall upon gild eaves
+and tell tell tell thee
+
+o tell swallow thou knowest each
+that bright fierc fickl south
+and dark true tender north
+
+o swallow swallow could follow light
+upon lattic would pipe trill
+and cheep twitter twenti million loves
+
+o thou might take in
+and lay bosom heart
+would rock snowi cradl till died
+
+whi lingereth cloth heart love
+delay tender ash delays
+to cloth wood green
+
+o tell swallow thi brood flown
+say wanton south
+but north long sinc nest made
+
+o tell brief life love long
+and brief sun summer north
+and brief moon beauti south
+
+o swallow fli golden woods
+fli pipe woo make mine
+and tell tell follow thee",78,60,0.7692307692307693
 2434,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 7,45332,"Dark house, by which once more I stand
 Here in the long unlovely street,
 Doors, where my heart was used to beat
@@ -1063,7 +2051,20 @@ At earliest morning to the door.
 He is not here; but far away
 The noise of life begins again,
 And ghastly thro' the drizzling rain
-On the bald street breaks the blank day.",78,61,0.7820512820512819
+On the bald street breaks the blank day.","dark hous stand
+her long unlov street
+door heart use beat
+so quick wait hand
+
+a hand claspd more—
+behold cannot sleep
+and like guilti thing creep
+at earliest morn door
+
+h far away
+th nois life begin again
+and ghast thro drizzl rain
+on bald street break blank day",78,61,0.7820512820512819
 2451,William Shakespeare,The Phoenix and the Turtle,45085,"Let the bird of loudest lay
 On the sole Arabian tree
 Herald sad and trumpet be,
@@ -1150,7 +2151,93 @@ Truth and beauty buried be.
 
 To this urn let those repair
 That are either true or fair;
-For these dead birds sigh a prayer.",85,68,0.8
+For these dead birds sigh a prayer.","let bird loudest lay
+on sole arabian tree
+herald sad trumpet be
+to whose sound chast wing obey
+
+but thou shriek harbinger
+foul precurr fiend
+augur fever end
+to troop come thou near
+
+from session interdict
+everi fowl tyrant wing
+sav eagl featherd king
+keep obsequy strict
+
+let priest surplic white
+that defunct music can
+b deathdivin swan
+lest requiem lack right
+
+and thou trebled crow
+that thi sabl gender makst
+with breath thou givst takst
+mongst mourner shalt thou go
+
+her anthem doth commence
+lov constanc dead
+phoenix turtl fled
+in mutual flame hence
+
+so lovd love twain
+had essenc one
+two distinct divis none
+numb love slain
+
+heart remot yet asunder
+dist space seen
+twixt turtl queen
+but wonder
+
+so love shine
+that turtl saw right
+flam phoenix sight
+eith other mine
+
+properti thus appalled
+that self same
+singl natur doubl name
+neith two one called
+
+reason confounded
+saw divis grow together
+to yet either neither
+simpl well compounded
+
+that cri true twain
+seemeth concord one
+lov reason reason none
+if part remain
+
+whereupon made threne
+to phoenix dove
+cosuprem star love
+a chorus tragic scene
+
+threnos
+
+
+beauti truth rarity
+grac simplicity
+her enclosd cinder lie
+
+death phoenix nest
+and turtl loyal breast
+to etern doth rest
+
+leav posterity
+twa infirmity
+it marri chastity
+
+truth may seem cannot be
+beauti brag ti she
+truth beauti buri be
+
+to urn let repair
+that either true fair
+for dead bird sigh prayer",85,68,0.8
 2452,Emily Dickinson,Forever – is composed of Nows – (690),52202,"Forever – is composed of Nows –
 ‘Tis not a different time –
 Except for Infiniteness –
@@ -1164,7 +2251,20 @@ And Years – exhale in Years –
 Without Debate – or Pause –
 Or Celebrated Days –
 No different Our Years would be
-From Anno Dominies –",57,48,0.8421052631578947
+From Anno Dominies –","forev – compos now –
+'tis differ time –
+except infinit –
+and latitud home –
+
+from – experienc –
+remov date – –
+let month dissolv month –
+and year – exhal year –
+
+without debat – paus –
+or celebr day –
+no differ year would be
+from anno domini –",57,48,0.8421052631578947
 2453,"Alfred, Lord Tennyson",The Higher Pantheism,45323,"The sun, the moon, the stars, the seas, the hills and the plains,-
 Are not these, O Soul, the Vision of Him who reigns?
 
@@ -1190,7 +2290,32 @@ Law is God, say some; no God at all, says the fool,
 For all we have power to see is a straight staff bent in a pool;
 
 And the ear of man cannot hear, and the eye of man cannot see;
-But if we could see and hear, this Vision-were it not He?",78,62,0.7948717948717948
+But if we could see and hear, this Vision-were it not He?","sun moon star sea hill plains
+ar soul vision reigns
+
+i vision tho seems
+dream true last live dreams
+
+earth solid star weight bodi limb
+ar sign symbol thi divis him
+
+dark world thee thyself art reason why
+for thou hast power feel i
+
+glori thee without thee thou fulfillest thi doom
+mak broken gleam stifl splendour gloom
+
+speak thou hear spirit spirit meet
+clos breath nearer hand feet
+
+god law say wise soul let u rejoice
+for thunder law thunder yet voice
+
+law god say god say fool
+for power see straight staff bent pool
+
+and ear man cannot hear eye man cannot see
+but could see hear visionwer",78,62,0.7948717948717948
 2470,Rae Armantrout,Bees,89350,"If not being (something)
 is the same as being,
 
@@ -1215,7 +2340,31 @@ be looser?
 Moon shadow
 made of angry bees,
 
-confined. Come in.",62,47,0.7580645161290323
+confined. Come in.","something
+i being
+
+then live forever
+
+•
+
+round shadow inside
+th sunflower's
+
+corona
+•
+
+
+if live forever
+would present noose
+
+b looser
+•
+
+
+moon shadow
+mad angri bees
+
+confin come",62,47,0.7580645161290323
 2482,"Alfred, Lord Tennyson",Claribel,45320,"Where Claribel low-lieth
 The breezes pause and die,
 Letting the rose-leaves fall:
@@ -1237,7 +2386,28 @@ The callow throstle lispeth,
 The slumbrous wave outwelleth,
 The babbling runnel crispeth,
 The hollow grot replieth
-Where Claribel low-lieth.",78,63,0.8076923076923077
+Where Claribel low-lieth.","claribel lowlieth
+th breez paus die
+let roseleav fall
+but solemn oaktre sigheth
+thickleav ambrosial
+with ancient melody
+of inward agony
+wher claribel lowlieth
+
+at eve beetl boometh
+athwart thicket lone
+at noon wild bee hummeth
+about mossd headstone
+at midnight moon cometh
+and looketh alone
+h song lintwhit swelleth
+th clearvoic mavi dwelleth
+th callow throstl lispeth
+th slumbrous wave outwelleth
+th babbl runnel crispeth
+th hollow grot replieth
+wher claribel lowlieth",78,63,0.8076923076923077
 2485,William Wordsworth,The World Is Too Much With Us,45564,"The world is too much with us; late and soon,
 Getting and spending, we lay waste our powers;—
 Little we see in Nature that is ours;
@@ -1251,7 +2421,20 @@ A Pagan suckled in a creed outworn;
 So might I, standing on this pleasant lea,
 Have glimpses that would make me less forlorn;
 Have sight of Proteus rising from the sea;
-Or hear old Triton blow his wreathèd horn.",59,44,0.7457627118644068
+Or hear old Triton blow his wreathèd horn.","world much u late soon
+get spend lay wast powers—
+littl see natur ours
+w given heart away sordid boon
+thi sea bare bosom moon
+th wind howl hours
+and upgath like sleep flowers
+for everyth tune
+it move u great god i'd rather be
+a pagan suckl creed outworn
+so might stand pleasant lea
+hav glimps would make le forlorn
+hav sight proteus rise sea
+or hear old triton blow wreathèd horn",59,44,0.7457627118644068
 2490,William Wordsworth,The Solitary Reaper,45554,"Behold her, single in the field,
 Yon solitary Highland Lass!
 Reaping and singing by herself;
@@ -1286,7 +2469,41 @@ And o'er the sickle bending;—
 I listened, motionless and still;
 And, as I mounted up the hill,
 The music in my heart I bore,
-Long after it was heard no more.",59,45,0.7627118644067796
+Long after it was heard no more.","behold singl field
+yon solitari highland lass
+reap sing herself
+stop gentl pass
+alon cut bind grain
+and sing melancholi strain
+o listen vale profound
+i overflow sound
+
+no nightingal ever chaunt
+mor welcom note weari bands
+of travel shadi haunt
+among arabian sands
+a voic thrill neer heard
+in springtim cuckoobird
+break silenc seas
+among farthest hebrides
+
+wil one tell sings—
+perhap plaintiv number flow
+for old unhappi faroff things
+and battl long ago
+or humbl lay
+familiar matter today
+som natur sorrow loss pain
+that may again
+
+what theme maiden sang
+a song could ending
+i saw sing work
+and oer sickl bending—
+i listen motionless still
+and mount hill
+th music heart bore
+long heard",59,45,0.7627118644067796
 2492,William Wordsworth,Character of the Happy Warrior,45512,"Who is the happy Warrior? Who is he
 That every man in arms should wish to be?
 —It is the generous Spirit, who, when brought
@@ -1371,7 +2588,91 @@ Finds comfort in himself and in his cause;
 And, while the mortal mist is gathering, draws
 His breath in confidence of Heaven's applause:
 This is the happy Warrior; this is he
-That every man in arms should wish to be.",59,46,0.7796610169491526
+That every man in arms should wish to be.","happi warrior he
+that everi man arm wish be
+—it generous spirit brought
+among task real life hath wrought
+upon plan pleas boyish thought
+whos high endeavour inward light
+that make path alway bright
+who natur instinct discern
+what knowledg perform dilig learn
+abid resolv stop there
+but make moral prime care
+who doom go compani pain
+and fear bloodsh miser train
+turn necess glorious gain
+in face doth exercis power
+which human natur highest dower
+control subdu transmut bereaves
+of bad influenc good receives
+bi object might forc soul abate
+h feel render compassionate
+i placable—becaus occas rise
+so often demand sacrifice
+mor skil selfknowledg even pure
+a tempt abl endure
+a expos suffer distress
+th also aliv tenderness
+—ti whose law reason depends
+upon law best friends
+whenc state men tempt still
+to evil guard wors ill
+and qualiti act best
+doth seldom right foundat rest
+h labour good good fix owes
+to virtu everi triumph knows
+—who rise station command
+ris open mean stand
+on honour term els retire
+and poss desire
+who comprehend trust same
+keep faith singl aim
+and therefor stoop lie wait
+for wealth honour world state
+whom must follow whose head must fall
+lik shower manna come all
+whos power shed round common strife
+or mild concern ordinari life
+a constant influenc peculiar grace
+but call upon face
+som aw moment heaven joined
+great issu good bad human kind
+i happi lover attired
+with sudden bright like man inspired
+and heat conflict keep law
+in calm made see foresaw
+or unexpect call succeed
+com equal need
+—h though thus endu sense
+and faculti storm turbulence
+i yet soul whose masterbia leans
+to homefelt pleasur gentl scenes
+sweet imag whereso be
+ar heart fidelity
+it darl passion approve
+mor brave hath much love—
+ti final man lift high
+conspicu object nation eye
+or left unthoughtof obscurity—
+who toward untoward lot
+prosper advers wish not—
+play mani game life one
+wher doth valu must won
+whom neither shape danger dismay
+nor thought tender happi betray
+who content former worth stand fast
+look forward persev last
+from well better daili selfsurpast
+who whether prais must walk earth
+for ever nobl deed give birth
+or must fall sleep without fame
+and leav dead unprofit name—
+find comfort cause
+and mortal mist gather draws
+hi breath confid heaven applause
+thi happi warrior he
+that everi man arm wish",59,46,0.7796610169491526
 2505,William Shakespeare,"Speech: “
   
    Tomorrow, and tomorrow, and tomorrow
@@ -1397,7 +2698,27 @@ And then is heard no more. It is a tale
 
 Told by an idiot, full of sound and fury,
 
-Signifying nothing.",85,69,0.8117647058823529
+Signifying nothing.","from
+macbeth spoken macbeth
+tomorrow tomorrow tomorrow
+
+creep petti pace day day
+
+to last syllabl record time
+
+and yesterday light fools
+
+th way dusti death brief candle
+
+lif walk shadow poor player
+
+that strut fret hour upon stage
+
+and heard tale
+
+told idiot full sound fury
+
+signifi noth",85,69,0.8117647058823529
 2507,Rae Armantrout,The Eye,56107,"These brown piles
 of stubble
 
@@ -1436,7 +2757,45 @@ to prevent
 blank spots
 
 from making themselves
-known.",62,48,0.7741935483870968
+known.","brown piles
+of stubble
+
+hills
+
+hav failed
+
+they more
+
+•
+
+it difficult
+but impossible
+
+to transmute
+latitude
+
+into thought
+
+a god could
+hold
+
+•
+
+bar light
+
+dun come on
+and on
+
+•
+
+th eye yes
+must move
+
+to prevent
+blank spots
+
+from make themselves
+known",62,48,0.7741935483870968
 2508,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 11,45333,"Calm is the morn without a sound,
 Calm as to suit a calmer grief,
 And only thro' the faded leaf
@@ -1460,7 +2819,30 @@ If any calm, a calm despair:
 Calm on the seas, and silver sleep,
 And waves that sway themselves in rest,
 And dead calm in that noble breast
-Which heaves but with the heaving deep.",78,64,0.8205128205128205
+Which heaves but with the heaving deep.","calm morn without sound
+calm suit calmer grief
+and thro fade leaf
+th chestnut patter ground
+
+calm deep peac high wold
+and dew drench furze
+and silveri gossamers
+that twinkl green gold
+
+calm still light yon great plain
+that sweep autumn bowers
+and crowd farm lessen towers
+to mingl bound main
+
+calm deep peac wide air
+thes leaf redden fall
+and heart calm all
+if calm calm despair
+
+calm sea silver sleep
+and wave sway rest
+and dead calm nobl breast
+which heav heav deep",78,64,0.8205128205128205
 2517,"Alfred, Lord Tennyson",In the Valley of Cauteretz,45358,"All along the valley, stream that flashest white,
 Deepening thy voice with the deepening of the night,
 All along the valley, where thy waters flow,
@@ -1470,7 +2852,16 @@ The two and thirty years were a mist that rolls away;
 For all along the valley, down thy rocky bed,
 Thy living voice to me was as the voice of the dead,
 And all along the valley, by rock and cave and tree,
-The voice of the dead was a living voice to me.",78,65,0.8333333333333334
+The voice of the dead was a living voice to me.","along valley stream flashest white
+deepen thi voic deepen night
+al along valley thi water flow
+i walkd one love two thirti year ago
+al along valley walkd today
+th two thirti year mist roll away
+for along valley thi rocki bed
+thi live voic voic dead
+and along valley rock cave tree
+th voic dead live voic",78,65,0.8333333333333334
 2530,Rae Armantrout,Background Information,58348,"1
 
 
@@ -1516,7 +2907,49 @@ is everything
 that, for now,
 can be safely
 
-ignored",62,49,0.7903225806451613
+ignored","there lot go in
+“the”
+zombi apocalypse
+
+but wouldn't recognize
+that mother
+wa zombie
+
+i mean zombies
+ar thing
+
+
+
+
+
+th last thing did
+wa point
+to one corner ceiling
+
+with horrifi stare
+th nurs call “a seizure”
+
+a words
+drain experience
+of content continued
+
+to accumulate
+
+a words
+wer seal containers
+stor safe keeping
+
+
+
+
+
+th background
+i everything
+
+that now
+can safely
+
+ignor",62,49,0.7903225806451613
 2531,William Wordsworth,To a Highland Girl,45560,"(At Inversneyde, upon Loch Lomond)
 Sweet Highland Girl, a very shower
 Of beauty is thy earthly dower!
@@ -1598,7 +3031,88 @@ For I, methinks, till I grow old,
 As fair before me shall behold,
 As I do now, the cabin small,
 The lake, the bay, the waterfall;
-And thee, the spirit of them all!",59,47,0.7966101694915254
+And thee, the spirit of them all!","inversneyd upon loch lomond
+sweet highland girl shower
+of beauti thi earth dower
+twic seven consent year shed
+their utmost bounti thi head
+and grey rock household lawn
+thos tree veil half withdrawn
+thi fall water doth make
+a murmur near silent lake
+thi littl bay quiet road
+that hold shelter thi abode—
+in truth togeth ye seem
+lik someth fashion dream
+such form covert peep
+when earth care laid asleep
+but fair creatur light
+of common day heaven bright
+i bless thee vision thou art
+i bless thee human heart
+god shield thee thi latest years
+the neither know thi peers
+and yet eye fill tears
+
+with earnest feel shall pray
+for thee far away
+for never saw mien face
+in plain could trace
+benign homebr sense
+ripen perfect innocence
+her scatter like random seed
+remot men thou dost need
+th embarrass look shi distress
+and maiden shamefacedness
+thou wearst upon thi forehead clear
+th freedom mountaineer
+a face glad overspread
+soft smile human kind bred
+and seemli complet sways
+thi courtesi thee plays
+with restraint springs
+from quick eager visitings
+of thought lie beyond reach
+of thi word english speech
+a bondag sweet brook strife
+that give thi gestur grace life
+so unmov mind
+seen bird tempestlov kind—
+thus beat wind
+
+what hand would garland cull
+for thee art beautiful
+o happi pleasur dwell
+besid thee heathi dell
+adopt home way dress
+a shepherd thou shepherdess
+but could frame wish thee
+mor like grave reality
+thou art wave
+of wild sea would have
+som claim upon thee could
+though common neighbourhood
+what joy hear thee see
+thi elder brother would be
+thi father—anyth thee
+
+now thank heaven grace
+hath led lone place
+joy go hence
+i bear away recompense
+in spot like prize
+our memori feel hath eyes
+then loth stir
+i feel place made her
+to give new pleasur like past
+continu long life shall last
+nor loth though pleas heart
+sweet highland girl thee part
+for methink till grow old
+a fair shall behold
+a cabin small
+th lake bay waterfall
+and thee spirit",59,47,0.7966101694915254
 2551,Emily Dickinson,"A Bird, came down the Walk - (359)",56593,"A Bird, came down the Walk -
 He did not know I saw -
 He bit an Angle Worm in halves
@@ -1622,7 +3136,20 @@ And rowed him softer Home -
 Than Oars divide the Ocean,
 Too silver for a seam,
 Or Butterflies, off Banks of Noon,
-Leap, plashless as they swim.",57,49,0.8596491228070176
+Leap, plashless as they swim.","bird came walk know saw bit angl worm halves
+and ate fellow raw
+
+and drank dew
+from conveni grass hop sidewis wall
+to let beetl pas glanc rapid eyes
+that hurri abroad look like frighten bead thought
+h stir velvet head like one danger cautious
+i offer crumb
+and unrol feathers
+and row softer home oar divid ocean
+too silver seam
+or butterfli bank noon
+leap plashless swim",57,49,0.8596491228070176
 2557,William Wordsworth,The Virgin,45563,"Mother! whose virgin bosom was uncrost
 With the least shade of thought to sin allied.
 Woman! above all women glorified,
@@ -1636,9 +3163,23 @@ Not unforgiven the suppliant knee might bend,
 As to a visible Power, in which did blend
 All that was mixed and reconciled in thee
 Of mother's love with maiden purity,
-Of high with low, celestial with terrene!",59,48,0.8135593220338984
+Of high with low, celestial with terrene!","mother whose virgin bosom uncrost
+with least shade thought sin allied
+woman woman glorified
+our taint natur solitari boast
+pur foam central ocean tost
+bright eastern sky daybreak strewn
+with fanci rose unblemish moon
+befor wane begin heaven blue coast
+thi imag fall earth yet ween
+not unforgiven suppliant knee might bend
+a visibl power blend
+al mix reconcil thee
+of mother love maiden purity
+of high low celesti terren",59,48,0.8135593220338984
 2558,Emily Dickinson,Let me not thirst with this Hock at my Lip,48748,"Let me not thirst with this Hock at my Lip,
-Nor beg, with domains in my pocket—",57,50,0.8771929824561403
+Nor beg, with domains in my pocket—","let thirst hock lip
+nor beg domain pocket—",57,50,0.8771929824561403
 2564,Rae Armantrout,Object Lesson,58349,"1
 
 
@@ -1688,7 +3229,53 @@ the way each proceeds,
 blinkered and mechanical,
 
 into whatever
-this recreates",62,50,0.8064516129032258
+this recreates","memory
+caught mounted
+
+for perman display
+i much
+
+lik anyth happens
+can't surprising
+
+but leav us
+night museum
+
+th set pieces
+in comic
+
+ignor one another
+tak stage
+
+
+
+
+
+in series
+h toss her
+
+on bed
+lik laundry
+
+a struggles
+irrelevantly
+
+against stickiness
+of tape
+
+and it this
+
+th blind persistence
+of struggle
+
+and feigned
+indifference
+
+th way proceeds
+blink mechanical
+
+into whatever
+thi recreat",62,50,0.8064516129032258
 2567,Rae Armantrout,Headlong,56651,"As one
 may be relieved
 by the myriad
@@ -1706,7 +3293,24 @@ in these headlong
 phrases
 
 Relieved of what?
-Relieved of what?",62,51,0.8225806451612904
+Relieved of what?","one
+may relieved
+bi myriad
+marigold faces
+held aloft
+besid freeway —
+their articulation —
+
+and too
+bi rush
+of notes
+follow own
+likenesses
+in headlong
+phrases
+
+reliev what
+reliev",62,51,0.8225806451612904
 2570,William Shakespeare,Sonnet 121: 'Tis better to be vile than vile esteemed,56223,"’Tis better to be vile than vile esteemed
 When not to be receives reproach of being,
 And the just pleasure lost, which is so deemed
@@ -1720,7 +3324,20 @@ At my abuses reckon up their own:
 I may be straight though they themselves be bevel;
 By their rank thoughts my deeds must not be shown,
 Unless this general evil they maintain:
-All men are bad and in their badness reign.",85,70,0.8235294117647058
+All men are bad and in their badness reign.","tis better vile vile esteemed
+when receiv reproach being
+and pleasur lost deemed
+not feel other seeing
+for other fals adulter eyes
+g salut sportiv blood
+or frailti frailer spies
+which will count bad think good
+no level
+at abus reckon own
+i may straight though bevel
+bi rank thought deed must shown
+unless general evil maintain
+al men bad bad reign",85,70,0.8235294117647058
 2583,William Shakespeare,Sonnet 71: No longer mourn for me when I am dead,45098,"No longer mourn for me when I am dead
 Than you shall hear the surly sullen bell
 Give warning to the world that I am fled
@@ -1734,7 +3351,20 @@ When I (perhaps) compounded am with clay,
 Do not so much as my poor name rehearse,
 But let your love even with my life decay,
 Lest the wise world should look into your moan,
-And mock you with me after I am gone.",85,71,0.8352941176470589
+And mock you with me after I am gone.","longer mourn dead
+than shall hear sur sullen bell
+giv warn world fled
+from vile world vilest worm dwell
+nay read line rememb not
+th hand writ love so
+that sweet thought would forgot
+if think make woe
+o say look upon verse
+when perhap compound clay
+do much poor name rehearse
+but let love even life decay
+lest wise world look moan
+and mock gone",85,71,0.8352941176470589
 2585,Rae Armantrout,Care,147625,"Dress like you care!
 Eat like you care!
 Care like you care!
@@ -1768,7 +3398,40 @@ is like another?
 Add yourself
 to yourself.
 
-Now you have someone.",62,52,0.8387096774193549
+Now you have someone.","dress like care
+eat like care
+car like care
+
+you don't think
+appl grow trees
+do you
+
+•
+
+
+a fish tap clam
+against boni knob
+of coral
+to crack shell —
+
+which demonstr intelligence
+y but
+i fish
+pleas itself
+
+•
+
+
+alon crib
+you form syllables
+
+ar happi one
+i like another
+
+add yourself
+to yourself
+
+now someon",62,52,0.8387096774193549
 2597,William Shakespeare,"Song: “
   
    When daisies pied and violets blue”",45111,"(from
@@ -1812,7 +3475,48 @@ When roasted crabs hiss in the bowl,
 Then nightly sings the staring owl,
 “Tu-who;
 Tu-whit, tu-who!”—a merry note,
-While greasy Joan doth keel the pot.",85,72,0.8470588235294118
+While greasy Joan doth keel the pot.","from
+lov labor lost
+
+when daisi pie violet blue
+and ladysmock silverwhite
+and cuckoobud yellow hue
+do paint meadow delight
+th cuckoo everi tree
+mock marri men thus sing he
+“cuckoo
+cuckoo cuckoo” word fear
+unpleas marri ear
+
+when shepherd pipe oaten straws
+and merri lark ploughman clocks
+when turtl tread rook daws
+and maiden bleach summer smocks
+th cuckoo everi tree
+mock marri men thus sing he
+“cuckoo
+cuckoo cuckoo” word fear
+unpleas marri ear
+
+when icicl hang wall
+and dick shepherd blow nail
+and tom bear log hall
+and milk come frozen home pail
+when blood nippd way foul
+then night sing staringowl
+“tuwho
+tuwhit tuwho”—a merri note
+whil greasi joan doth keel pot
+
+when aloud wind doth blow
+and cough drown parson saw
+and bird sit brood snow
+and marian nose look red raw
+when roast crab hiss bowl
+then night sing stare owl
+“tuwho
+tuwhit tuwho”—a merri note
+whil greasi joan doth keel pot",85,72,0.8470588235294118
 2603,William Wordsworth,"It is a Beauteous Evening, Calm and Free",45524,"It is a beauteous evening, calm and free,
 The holy time is quiet as a Nun
 Breathless with adoration; the broad sun
@@ -1826,7 +3530,20 @@ If thou appear untouched by solemn thought,
 Thy nature is not therefore less divine:
 Thou liest in Abraham's bosom all the year;
 And worshipp'st at the Temple's inner shrine,
-God being with thee when we know it not.",59,49,0.8305084745762712
+God being with thee when we know it not.","beauteous even calm free
+th holi time quiet nun
+breathless ador broad sun
+i sink tranquility
+th gentl heaven brood oer sea
+listen mighti awake
+and doth etern motion make
+a sound like thunder—everlastingly
+dear child dear girl walkest here
+if thou appear untouch solemn thought
+thi natur therefor le divine
+thou liest abraham bosom year
+and worshippst templ inner shrine
+god thee know",59,49,0.8305084745762712
 2613,Rae Armantrout,Followers,57726,"1
 
 
@@ -1874,7 +3591,51 @@ after “all.”
 
 Come as “always,”
 
-walking backwards",62,53,0.8548387096774194
+walking backwards","blank sky
+
+between parallel wires
+
+reserved
+
+for penmanship
+
+practice
+
+
+
+
+
+th cold rays
+of bristl cone
+
+sh writes —
+
+sh admires
+imitations
+
+such spars coronas
+surrounding
+
+everi knobby
+fist
+
+
+
+
+
+“naught”
+
+must follow
+
+“for”
+
+which come
+
+aft “all”
+
+com “always”
+
+walk backward",62,53,0.8548387096774194
 2618,Rae Armantrout,The Ether,57725,"We’re out
 past the end
 
@@ -1918,7 +3679,50 @@ of inattention
 or absorption
 
 somewhere near
-the Planck length",62,54,0.8709677419354839
+the Planck length","we'r out
+past end
+
+gam things
+get fuzzy
+
+less thingy
+
+though past times
+w practiced
+
+precision
+concret slot machine
+
+but precise
+you need stop
+
+a moment
+which turn be
+
+impracticable
+and besides
+
+spe essence
+
+don't worry
+
+“of” take care
+of itself
+
+and it fine
+to say “essence”
+
+now it understood
+to mean ether
+
+a kind filler
+mad either
+
+of inattention
+or absorption
+
+somewher near
+th planck length",62,54,0.8709677419354839
 2625,William Shakespeare,"Song: “
   
    O Mistress mine where are you roaming?”",47420,"(from
@@ -1936,7 +3740,22 @@ Present mirth, hath present laughter:
 What's to come, is still unsure.
 In delay there lies no plenty,
 Then come kiss me sweet and twenty:
-Youth's a stuff will not endure.",85,73,0.8588235294117647
+Youth's a stuff will not endure.","from
+twelfth night
+
+o mistress mine roaming
+o stay hear true love coming
+that sing high low
+trip pretti sweeting
+journey end lover meeting
+everi wise man son doth know
+
+what love ti hereafter
+pres mirth hath present laughter
+what come still unsure
+in delay lie plenty
+then come kiss sweet twenty
+youth stuff endur",85,73,0.8588235294117647
 2662,William Shakespeare,"Speech: “
   
    No matter where; of comfort no man speak
@@ -2010,7 +3829,75 @@ I live with bread like you, feel want,
 
 Taste grief, need friends: subjected thus,
 
-How can you say to me, I am a king?",85,74,0.8705882352941177
+How can you say to me, I am a king?","from
+richard ii spoken king richard
+no matter comfort man speak
+
+let talk graf worm epitaphs
+
+mak dust paper raini eyes
+
+writ sorrow bosom earth
+
+let choos executor talk wills
+
+and yet bequeath
+
+sav depos bodi ground
+
+our land life bolingbroke's
+
+and noth call death
+
+and small model barren earth
+
+which serf past cover bones
+
+for god sake let u sit upon ground
+
+and tell sad stori death kings
+
+how depos slain war
+
+som haunt ghost deposed
+
+som poison'd wife sleep kill'd
+
+al murder'd within hollow crown
+
+that round mortal templ king
+
+keep death court antic sits
+
+scof state grin pomp
+
+allow breath littl scene
+
+to monarch fear'd kill looks
+
+infus self vain conceit
+
+a flesh wall life
+
+wer brass impregn humor'd thus
+
+com last littl pin
+
+bor castl wall farewel king
+
+cov head mock flesh blood
+
+with solemn rever throw away respect
+
+tradit form ceremoni duty
+
+for mistook while
+
+i live bread like feel want
+
+tast grief need friend subject thus
+
+how say king",85,74,0.8705882352941177
 2680,Emily Dickinson,"It was not Death, for I stood up, (355)",44085,"Highlight Actions
 Enable or disable annotations
 It was not Death, for I stood up,
@@ -2057,7 +3944,37 @@ spar
 The top mast of a ship
 -
 Or even a Report of Land -
-To justify - Despair.",57,51,0.8947368421052632
+To justify - Despair.","highlight actions
+en disabl annotations
+it death stood up
+and dead lie night bells
+put their
+tongues
+tongues
+th clapper insid bell noon
+
+it frost flesh
+i felt
+siroccos
+siroccos
+hot wind emili dickinson lexicon includ definit american dictionari english languag  “a pernici wind blow southeast itali call syrian wind said resembl steam mouth oven” crawl fire marbl feet
+could keep a
+chancel
+chancel
+th section near altar church
+cool yet tast like all
+th figur seen
+set order burial
+remind mine life shaven
+and fit frame
+and could breath without key
+and twas like midnight everyth tick stop space stare around grisli frost first autumn morns
+rep beat ground like chao stopless cool without chanc or
+spar
+spar
+th top mast ship
+
+or even report land justifi despair",57,51,0.8947368421052632
 2698,"Alfred, Lord Tennyson","from
   
   The Princess: The Splendour Falls on Castle Walls",45385,"The splendour falls on castle walls
@@ -2079,7 +3996,26 @@ They faint on hill or field or river:
 Our echoes roll from soul to soul,
 And grow for ever and for ever.
 Blow, bugle, blow, set the wild echoes flying,
-And answer, echoes, answer, dying, dying, dying.",78,66,0.8461538461538461
+And answer, echoes, answer, dying, dying, dying.","splendour fall castl walls
+and snowi summit old story
+th long light shake across lakes
+and wild cataract leap glory
+blow bugl blow set wild echo flying
+blow bugl answer echo die die dying
+
+o hark hear thin clear
+and thinner clearer farther going
+o sweet far cliff scar
+th horn elfland faint blowing
+blow let u hear purpl glen replying
+blow bugl answer echo die die dying
+
+o love die yon rich sky
+they faint hill field river
+our echo roll soul soul
+and grow ever ever
+blow bugl blow set wild echo flying
+and answer echo answer die die die",78,66,0.8461538461538461
 2711,William Shakespeare,"Speech: “
   
    Time hath, my lord, a wallet at his back
@@ -2177,7 +4113,99 @@ Whose glorious deeds, but in these fields of late,
 
 Made emulous missions 'mongst the gods themselves
 
-And drave great Mars to faction.",85,75,0.8823529411764706
+And drave great Mars to faction.","from
+troilus cressida spoken ulysses
+tim hath lord wallet back
+
+wherein put alm oblivion
+
+a greatsiz monster ingratitudes
+
+thos scrap good deed past devourd
+
+a fast made forgot soon
+
+a done persever dear lord
+
+keep honour bright done hang
+
+quit fashion like rusti mail
+
+in monument mockeri take instant way
+
+for honour travel strait narrow
+
+wher one go abreast keep path
+
+for emul hath thousand sons
+
+that one one pursu give way
+
+or hedg asid direct forthright
+
+lik enterd tide rush by
+
+and leav hindmost
+
+or like gallant hors falln first rank
+
+li pavement abject rear
+
+oerrun trampl present
+
+though le past must oertop yours
+
+for time like fashion host
+
+that slight shake part guest hand
+
+and arm outstretchd would fly
+
+grasp comer welcom ever smiles
+
+and farewel go sigh let virtu seek
+
+remuner thing was
+
+for beauti wit
+
+high birth vigour bone desert service
+
+lov friendship chariti subject all
+
+to envious calumni time
+
+on touch natur make whole world kin
+
+that one consent prais newborn gawds
+
+though made mould thing past
+
+and give dust littl gilt
+
+mor laud gilt oerdusted
+
+th present eye prais present object
+
+then marvel thou great complet man
+
+that greek begin worship ajax
+
+sinc thing motion sooner catch eye
+
+than stir cri went thee
+
+and still might yet may again
+
+if thou wouldst entomb thyself alive
+
+and case thi reput thi tent
+
+whos glorious deed field late
+
+mad emul mission mongst god themselves
+
+and drave great mar faction",85,75,0.8823529411764706
 2714,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 78,45345,"Again at Christmas did we weave
 The holly round the Christmas hearth;
 The silent snow possess'd the earth,
@@ -2201,7 +4229,30 @@ O grief, can grief be changed to less?
 O last regret, regret can die!
 Noimixt with all this mystic frame,
 Her deep relations are the same,
-But with long use her tears are dry.",78,67,0.8589743589743589
+But with long use her tears are dry.","christma weave
+th holli round christma hearth
+th silent snow possessd earth
+and calm fell christmaseve
+
+th yulelog sparkl keen frost
+no wing wind region swept
+but thing brood slept
+th quiet sens someth lost
+
+a winter left behind
+again ancient game place
+th mimic pictur breath grace
+and danc song hoodmanblind
+
+who showd token distress
+no singl tear mark pain
+o sorrow sorrow wane
+o grief grief chang less
+
+o last regret regret die
+noimixt mystic frame
+h deep relat same
+but long use tear dri",78,67,0.8589743589743589
 2726,William Shakespeare,Sonnet 97: How like a winter hath my absence been,45101,"How like a winter hath my absence been
 From thee, the pleasure of the fleeting year!
 What freezings have I felt, what dark days seen!
@@ -2215,7 +4266,20 @@ But hope of orphans and unfather'd fruit;
 For summer and his pleasures wait on thee,
 And thou away, the very birds are mute;
 Or if they sing, 'tis with so dull a cheer
-That leaves look pale, dreading the winter's near.",85,76,0.8941176470588236
+That leaves look pale, dreading the winter's near.","like winter hath absenc been
+from thee pleasur fleet year
+what freez felt dark day seen
+what old decemb bare everywhere
+and yet time removd summer time
+th teem autumn big rich increase
+bear wanton burthen prime
+lik widowd womb lord decease
+yet abund issu seemd me
+but hope orphan unfatherd fruit
+for summer pleasur wait thee
+and thou away bird mute
+or sing ti dull cheer
+that leaf look pale dread winter near",85,76,0.8941176470588236
 2743,"Alfred, Lord Tennyson","You Ask Me, Why, Tho' Ill at Ease",45393,"You ask me, why, tho' ill at ease,
 Within this region I subsist,
 Whose spirits falter in the mist,
@@ -2249,7 +4313,40 @@ Should fill and choke with golden sand—
 Yet waft me from the harbour-mouth,
 Wild wind! I seek a warmer sky,
 And I will see before I die
-The palms and temples of the South.",78,68,0.8717948717948718
+The palms and temples of the South.","ask tho ill ease
+within region subsist
+whos spirit falter mist
+and languish purpl seas
+
+it land freeman till
+that sobersuit freedom chose
+th land girt friend foes
+a man may speak thing will
+
+a land settl government
+a land old renown
+wher freedom slowli broaden down
+from preced precedent
+
+wher faction seldom gather head
+but degre full wrought
+th strength diffus thought
+hath time space work spread
+
+should band union persecute
+opinion induc time
+when singl thought civil crime
+and individu freedom mute
+
+tho power make land land
+th name britain trebli great—
+tho everi channel state
+should fill choke golden sand—
+
+yet waft harbourmouth
+wild wind seek warmer sky
+and see die
+th palm templ south",78,68,0.8717948717948718
 2745,William Wordsworth,The Thorn,52996,"I
 “There is a Thorn—it looks so old,
 In truth, you’d find it hard to say
@@ -2534,7 +4631,291 @@ By day, and in the silent night,
 When all the stars shone clear and bright,
 That I have heard her cry,
 ‘Oh misery! oh misery!
-Oh woe is me! oh misery!’ ”",59,50,0.8474576271186439
+Oh woe is me! oh misery!’ ”","i
+“ther thorn—it look old
+in truth you'd find hard say
+how could ever young
+it look old grey
+not higher two year child
+it stand erect age thorn
+no leaf prick points
+it mass knot joints
+a wretch thing forlorn
+it stand erect like stone
+with lichen overgrown
+
+ii
+“lik rock stone o'ergrown
+with lichen top
+and hung heavi tuft moss
+a melancholi crop
+up earth moss creep
+and poor thorn clasp round
+so close you'd say bent
+with plain manifest intent
+to drag ground
+and join one endeavour
+to buri poor thorn ever
+
+iii
+“high mountain highest ridge
+wher oft stormi winter gale
+cut like scyth clouds
+it sweep vale vale
+not five yard mountain path
+thi thorn left espy
+and left three yard beyond
+you see littl muddi pond
+of water—nev dry
+though compass small bare
+to thirsti sun parch air
+
+iv
+“and close besid age thorn
+ther fresh love sight
+a beauteous heap hill moss
+just half foot height
+al love colour see
+al colour ever seen
+and mossi network there
+a hand ladi fair
+th work woven been
+and cup darl eye
+so deep vermilion dye
+
+v
+“ah love tint there
+of oliv green scarlet bright
+in spike branch stars
+green red pear white
+thi heap earth o'ergrown moss
+which close besid thorn see
+so fresh beauteous dyes
+i like infant grave size
+a like like be
+but never never where
+an infant grave half fair
+
+vi
+“now would see age thorn
+thi pond beauteous hill moss
+you must take care choos time
+th mountain cross
+for oft sit heap
+so like infant grave size
+and pond spoke
+a woman scarlet cloak
+and cries
+'oh miseri oh misery
+oh woe oh misery'
+
+vii
+“at time day night
+thi wretch woman thither goes
+and known everi star
+and everi wind blows
+and besid thorn sits
+when blue daylight skies
+and whirlwind hill
+or frosti air keen still
+and cries
+'oh miseri oh misery
+oh woe oh miseri ”
+
+viii
+“now wherefor thus day night
+in rain tempest snow
+thus dreari mountaintop
+do poor woman go
+and sit besid thorn
+when blue daylight sky
+or whirlwind hill
+or frosti air keen still
+and wherefor cry—
+o wherefor wherefor tell why
+do repeat dole cry”
+
+ix
+“i cannot tell wish could
+for true reason one knows
+but would glad view spot
+th spot goes
+th hillock like infant grave
+th pond—and thorn old grey
+pass door—'ti seldom shut—
+and see hut—
+then spot away
+i never heard dare
+approach spot there”
+
+x
+“but wherefor mountaintop
+can unhappi woman go
+whatev star skies
+whatev wind may blow”
+“ful twenti year past gone
+sinc name martha ray
+gav maiden true goodwill
+h compani stephen hill
+and blith gay
+whil friend kindr approved
+of tender loved
+
+xi
+“and fix wed day
+th morn must wed both
+but stephen anoth maid
+had sworn anoth oath
+and maid church
+unthink stephen went—
+poor martha woeful day
+a pang pitiless dismay
+into soul sent
+a fire kindl breast
+which might burn rest
+
+xii
+“they say full six month this
+whil yet summer leaf green
+sh mountaintop would go
+and often seen
+what could seek—or wish hide
+h state eye plain
+sh child mad
+yet often sober sad
+from exceed pain
+o guilti father—would death
+had save breach faith
+
+xiii
+“sad case brain hold
+communion stir child
+sad case may think one
+who brain wild
+last christmasev talk this
+and greyhair wilfr glen
+held unborn infant wrought
+about mother heart brought
+her sen back again
+and last time drew near
+her look calm sen clear
+
+xiv
+“mor know wish did
+and told you
+for becam poor child
+no mortal ever knew
+nay—if child born
+no earth tongu could ever tell
+and twas born aliv dead
+far le could proof said
+but rememb well
+that martha ray time
+would mountain often climb
+
+xv
+“and winter night
+th wind blew mountainpeak
+'twa worth though dark
+th churchyard path seek
+for mani time oft heard
+cri come mountain head
+som plain live voic were
+and other i'v heard mani swear
+wer voic dead
+i cannot think whate' say
+they martha ray
+
+xvi
+“but go old thorn
+th thorn describ you
+and sit scarlet cloak
+i sworn true
+for one day telescope
+to view ocean wide bright
+when countri first came
+er heard martha name
+i climb mountain height—
+a storm came could see
+no object higher knee
+
+xvii
+“ 'twa mist rain storm rain
+no screen fenc could discover
+and wind sooth was
+a wind full ten time over
+i look around thought saw
+a jut crag—and ran
+headforemost drive rain
+th shelter crag gain
+and man
+instead jut crag found
+a woman seat ground
+
+xviii
+“i speak—i saw face
+h face—it enough me
+i turn heard cry
+'oh miseri oh misery'
+and sit moon
+through half clear blue sky go
+and littl breez make
+th water pond shake
+a countri know
+sh shudder hear cry
+'oh miseri oh miseri ”
+
+xix
+“but what thorn pond
+and hill moss her
+and creep breez comes
+th littl pond stir”
+“i cannot tell say
+sh hang babi tree
+som say drown pond
+which littl step beyond
+but agree
+th littl babe buri there
+beneath hill moss fair
+
+xx
+“i'v heard moss spot red
+with drop poor infant blood
+but kill newborn infant thus
+i think could
+som say pond go
+and fix steadi view
+th shadow babe trace
+a babi babi face
+and look you
+whene' look tis plain
+th babi look again
+
+xxi
+“and sworn oath she
+should public justic brought
+and littl infant bones
+with spade would sought
+but instant hill moss
+befor eye began stir
+and full fifti yard around
+th grass—it shook upon ground
+yet still aver
+th littl babe lie buri there
+beneath hill moss fair
+
+xxii
+“i cannot tell may be
+but plain thorn bound
+with heavi tuft moss strive
+to drag ground
+and know full mani time
+when mountain high
+bi day silent night
+when star shone clear bright
+that heard cry
+'oh miseri oh misery
+oh woe oh miseri ”",59,50,0.8474576271186439
 2748,"Alfred, Lord Tennyson",In Memoriam A. H. H. OBIIT MDCCCXXXIII: 5,45331,"I sometimes hold it half a sin
 To put in words the grief I feel;
 For words, like Nature, half reveal
@@ -2548,7 +4929,20 @@ Like dull narcotics, numbing pain.
 In words, like weeds, I'll wrap me o'er,
 Like coarsest clothes against the cold;
 But that large grief which these enfold
-Is given in outline and no more.",78,69,0.8846153846153846
+Is given in outline and no more.","sometim hold half sin
+to put word grief feel
+for word like natur half reveal
+and half conceal soul within
+
+but unquiet heart brain
+a use measur languag lies
+th sad mechan exercise
+lik dull narcot numb pain
+
+in word like weed ill wrap oer
+lik coarsest cloth cold
+but larg grief enfold
+i given outlin",78,69,0.8846153846153846
 2751,Rae Armantrout,Confidential,46589,"Shooting pleasures
 Ok’d by
 My being seen
@@ -2601,7 +4995,59 @@ Music, useful
 for abstracting emphasis.
 
 Sweet nothing
-to do with me.",62,55,0.8870967741935484
+to do with me.","shoot pleasures
+ok'd by
+mi seen
+for
+or as
+if
+
+
+
+not light
+at end tunnel
+
+but heart bow rainbows—
+
+al stickers
+teach award pleased
+
+
+
+pigeon bath technicolor
+fluid “of morning”
+
+
+
+if banging
+mi head shoe
+i exaggerating—
+
+lik rais voice
+or ante
+
+curlicues
+on iron gratings
+
+can be
+a flourish grimace
+but grimac isn't flourish
+
+
+
+on inscrib surface
+of sleep
+
+almost constant
+bird soundings
+
+“aloha fruiti pebbles”
+
+mus useful
+for abstract emphasis
+
+sweet nothing
+to",62,55,0.8870967741935484
 2760,William Wordsworth,Yarrow Unvisited,45568,"From Stirling castle we had seen
 The mazy Forth unravelled;
 Had trod the banks of Clyde, and Tay,
@@ -2676,7 +5122,80 @@ And yet be melancholy;
 Should life be dull, and spirits low,
 'Twill soothe us in our sorrow,
 That earth has something yet to show,
-The bonny holms of Yarrow!""",59,51,0.8644067796610171
+The bonny holms of Yarrow!""","stirl castl seen
+th mazi forth unravelled
+had trod bank clyde tay
+and tweed travelled
+and came clovenford
+then said winsom marrow
+
+what betid well turn aside
+and see brae yarrow
+
+let yarrow folk
+frae
+selkirk town
+who buy selling
+go back yarrow ti own
+each maiden dwelling
+on yarrow bank let heron feed
+har couch rabbit burrow
+but downward tweed
+nor turn asid yarrow
+
+ther galla water leader haughs
+both lie right us
+and dryborough chime tweed
+th lintwhit sing chorus
+ther pleasant tiviotdal land
+mad blith plough harrow
+whi throw away need day
+to go search yarrow
+
+what yarrow river bare
+that glide dark hill under
+ther thousand elsewhere
+a worthi wonder
+—strang word seem slight scorn
+mi truelov sigh sorrow
+and look face think
+i thus could speak yarrow
+
+oh green said yarrow holms
+and sweet yarrow flowing
+fair hang appl frae rock
+but leav growing
+o hilli path open strath
+wel wander scotland thorough
+but though near turn
+into dale yarrow
+
+let beef homebr kine partake
+th sweet burnmil meadow
+th swan still st mari lake
+float doubl swan shadow
+w see go
+today yet tomorrow
+enough heart know
+ther place yarrow
+
+b yarrow stream unseen unknown
+it must shall rue it
+w vision own
+ah undo it
+th treasur dream time long past
+wel keep winsom marrow
+for weer although ti fair
+twil anoth yarrow
+
+if care freez year come
+and wander seem folly—
+should loth stir home
+and yet melancholy
+should life dull spirit low
+twil sooth u sorrow
+that earth someth yet show
+th bonni holm yarrow",59,51,0.8644067796610171
 2789,"Alfred, Lord Tennyson",Of Old Sat Freedom on the Heights,45374,"Of old sat Freedom on the heights,
 The thunders breaking at her feet:
 Above her shook the starry lights:
@@ -2705,7 +5224,35 @@ Keep dry their light from tears;
 That her fair form may stand and shine,
 Make bright our days and light our dreams,
 Turning to scorn with lips divine
-The falsehood of extremes!",78,70,0.8974358974358975
+The falsehood of extremes!","old sat freedom heights
+th thunder break feet
+abov shook starri lights
+sh heard torrent meet
+
+ther place rejoice
+selfgatherd prophetmind
+but fragment mighti voice
+cam roll wind
+
+then stept thro town field
+to mingl human race
+and part part men reveald
+th ful face—
+
+grav mother majest works
+from islealtar gaze down
+who godlik grasp tripl forks
+and kinglik wear crown
+
+her open eye desir truth
+th wisdom thousand years
+i may perpetu youth
+keep dri light tears
+
+that fair form may stand shine
+mak bright day light dreams
+turn scorn lip divine
+th falsehood extrem",78,70,0.8974358974358975
 2803,William Wordsworth,A Complaint,45513,"There is a change—and I am poor;
 Your love hath been, nor long ago,
 A fountain at my fond heart's door,
@@ -2725,7 +5272,26 @@ I trust it is,—and never dry:
 What matter? if the waters sleep
 In silence and obscurity.
 —Such change, and at the very door
-Of my fond heart, hath made me poor.",59,52,0.8813559322033898
+Of my fond heart, hath made me poor.","change—and poor
+your love hath long ago
+a fountain fond heart door
+whos busi flow
+and flow take heed
+of bounti need
+
+what happi moment count
+blest bliss above
+now consecr fount
+of murmur sparkl live love
+what shall dare tell
+a comfortless hidden well
+
+a well love—it may deep—
+i trust is—and never dry
+what matter water sleep
+in silenc obscurity
+—such chang door
+of fond heart hath made poor",59,52,0.8813559322033898
 2923,William Wordsworth,"Elegiac Stanzas Suggested by a Picture of Peele Castle in a Storm, Painted by Sir George Beaumont",45516,"I was thy neighbour once, thou rugged Pile!
 Four summer weeks I dwelt in sight of thee:
 I saw thee every day; and all the while
@@ -2799,4 +5365,77 @@ Is to be pitied; for 'tis surely blind.
 But welcome fortitude, and patient cheer,
 And frequent sights of what is to be borne!
 Such sights, or worse, as are before me here.—
-Not without hope we suffer and we mourn.",59,53,0.8983050847457628
+Not without hope we suffer and we mourn.","thi neighbour thou rug pile
+four summer week dwelt sight thee
+i saw thee everi day while
+thi form sleep glassi sea
+
+so pure sky quiet air
+so like like day day
+when look thi imag still there
+it trembl never pass away
+
+how perfect calm seem sleep
+no mood season take away brings
+i could fanci mighti deep
+wa even gentlest gentl things
+
+ahthen mine painter hand
+to express saw add gleam
+th light never sea land
+th consecr poet dream
+
+i would plant thee thou hoari pile
+amid world differ this
+besid sea could ceas smile
+on tranquil land beneath sky bliss
+
+thou shouldst seem treasurehous divine
+of peac year chronicl heaven—
+of sunbeam ever shine
+th sweetest thee given
+
+a pictur last ease
+elysian quiet without toil strife
+no motion move tide breeze
+or mere silent natur breath life
+
+such fond illus heart
+such pictur would time made
+and seen soul truth everi part
+a steadfast peac might betrayed
+
+so would been—ti more
+i submit new control
+a power gone noth restore
+a deep distress hath humanis soul
+
+not moment could behold
+a smile sea been
+th feel loss neer old
+thi know speak mind serene
+
+then beaumont friend would friend
+if live deplore
+thi work thine blame commend
+thi sea anger dismal shore
+
+o ti passion work—yet wise well
+wel chosen spirit here
+that hulk labour dead swell
+thi rueful sky pageantri fear
+
+and huge castl stand sublime
+i love see look braves
+cas unfeel armour old time
+th lightn fierc wind trampl waves
+
+farewel farewel heart life alone
+h dream distanc kind
+such happi wherev known
+i piti ti sure blind
+
+but welcom fortitud patient cheer
+and frequent sight borne
+such sight wors here—
+not without hope suffer mourn",59,53,0.8983050847457628
